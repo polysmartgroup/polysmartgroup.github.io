@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Introducing the homepage of PolySmart! :sparkles: :smile:
+Introducing the homepage of PolySmart!
