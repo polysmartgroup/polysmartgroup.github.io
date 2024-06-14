@@ -12,6 +12,8 @@ giscus_comments: true
 
 ## Projects
 
+- [**Campus Tour Guide**: A Campus Tour Guide with On-campus Landmarks Recognition System by Convolutional Neural Network Models](https://github.com/zhangwengyu999/Campus_Tour_Guide)
+
 ## Assignment
 
 ## Demos
