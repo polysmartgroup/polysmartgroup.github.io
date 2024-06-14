@@ -1,12 +1,22 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: COMP4423 Computer Vision
+description: Projects, assignment, demos, FAQs, comments for COMP4423 Computer Vision course.
 nav: true
 nav_order: 6
+disqus_comments: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# COMP4423 Computer Vision
 
-Organize your courses by years, topics, or universities, however you like!
+## Projects
+
+## Assignment
+
+## Demos
+
+## FAQs
+
+## Comments
+
