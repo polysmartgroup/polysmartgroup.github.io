@@ -13,7 +13,8 @@ Website url: [https://polysmartlab.github.io/](https://polysmartlab.github.io/)
 # How to edit the content?
 
 Note:
-- To include images, please put the images file (e.g., `icon.png`) to the `assets/img` folder, then just use the file name `icon.png` in the markdown file (e.g., `icon: icon.png` in `_config.yml` file).
+1. To include images, please put the images file (e.g., `icon.png`) to the `assets/img` folder, then just use the file name `icon.png` in the markdown file (e.g., `icon: icon.png` in `_config.yml` file).
+2. Keep changes in the default `master` Branches, NO need to switch to `gh-pages` (this will be updated by the GitHub Actions automatically).
 
 ## 1. To edit the basic configuration of the website
 
