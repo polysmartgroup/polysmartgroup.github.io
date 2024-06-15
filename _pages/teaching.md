@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Projects, assignment, demos, FAQs, comments for COMP4423 Computer Vision course.
 nav: true
 nav_order: 6
