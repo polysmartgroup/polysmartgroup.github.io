@@ -36,7 +36,7 @@ giscus_comments: true
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://github.com/zhangwengyu999/Sign_Language_Recognition_SVM/assets/68627255/f3b7b69a-94eb-437f-a65a-68cdce19968b" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="assets/video/SLR_Demo.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="https://github.com/zhangwengyu999/Sign_Language_Recognition_SVM/blob/main/img/2.png?raw=true" class="img-fluid rounded z-depth-1" %}
