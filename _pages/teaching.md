@@ -43,8 +43,22 @@ giscus_comments: true
     </div>
 </div>
 
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/A1_2.jpg" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
+
 - [Sign Language Recognition System by Support Vector Machines (SVM)](https://github.com/zhangwengyu999/Sign_Language_Recognition_SVM)
 
+
+### 2. Campus Tour Guide
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/A2_1.jpg" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
 ---
 
 ## LEARNING OUTCOMES
