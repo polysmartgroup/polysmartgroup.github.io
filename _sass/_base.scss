@@ -285,6 +285,14 @@ ul.task-list input[type="checkbox"] {
     }
   }
 
+  .nav-search {
+    color: var(--global-search-color);
+
+    &:hover {
+      color: var(--global-hover-color);
+    }
+  }
+
   .navbar-nav .nav-item.active > .nav-link {
     background-color: inherit;
     font-weight: bolder;
