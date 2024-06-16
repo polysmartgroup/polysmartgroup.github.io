@@ -26,7 +26,7 @@ giscus_comments: true
     </div>
 </div>
 
-- [Fashion Image Generation by Generative Adversarial Networks (GANs) on Fashion MNIST - Wengyu Zhang](https://github.com/zhangwengyu999/Fashion_Image_Generation_Project)
+- [Fashion Image Generation by Generative Adversarial Networks (GANs) on Fashion MNIST](https://github.com/zhangwengyu999/Fashion_Image_Generation_Project)
 
 ---
 
@@ -43,7 +43,7 @@ giscus_comments: true
     </div>
 </div>
 
-- [Sign Language Recognition System by Support Vector Machines (SVM) - Wengyu Zhang](https://github.com/zhangwengyu999/Sign_Language_Recognition_SVM)
+- [Sign Language Recognition System by Support Vector Machines (SVM)](https://github.com/zhangwengyu999/Sign_Language_Recognition_SVM)
 
 ---
 
