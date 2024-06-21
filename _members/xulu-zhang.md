@@ -14,7 +14,7 @@ profile:
     name: Xulu ZHANG
     position: PhD Student, Department of Computing, The Hong Kong Polytechnic University
     align: left
-    image: xulu-zhang.jpeg
+    image: wengyu-zhang.jpeg
     email: compxulu.zhang@connect.polyu.hk
     address: >
         P504<br />
