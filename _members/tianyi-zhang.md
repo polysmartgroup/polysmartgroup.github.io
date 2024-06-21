@@ -14,7 +14,7 @@ teaser:
 profile:
     name: Tianyi ZHANG
     position: Student Assistant
-    image: tianyi.jpeg
+    image: tianyi-zhang.jpg
     email: tonax.zhang@connect.polyu.hk
     scholar: https://scholar.google.com/citations?user=2BOyNTAAAAAJ
     address: >
