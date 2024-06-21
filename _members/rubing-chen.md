@@ -15,7 +15,7 @@ profile:
     name: Rubing Chen
     position: Student Assistant
     align: left
-    image: rubing-chen.jpeg
+    image: rubing-chen.jpg
     email: ru-bing.chen@connect.polyu.hk
     address: >
         P504<br />
