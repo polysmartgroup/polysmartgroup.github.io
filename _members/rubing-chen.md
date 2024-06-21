@@ -4,19 +4,19 @@ inline: false
 group: Student Assistants
 group_rank: 4
 
-title: Tianyi ZHANG
+title: Rubing Chen
 description: 
-lastname: zhang
-publications: 'author^=*TianyiZhang'
+lastname: chen
+publications: 'author^=*WengyuZHANG'
 
 teaser: 
 
 profile:
-    name: Tianyi ZHANG
+    name: Rubing Chen
     position: Student Assistant
-    image: tianyi-zhang.jpg
-    email: tonax.zhang@connect.polyu.hk
-    scholar: https://scholar.google.com/citations?user=2BOyNTAAAAAJ
+    align: left
+    image: rubing-chen.jpeg
+    email: ru-bing.chen@connect.polyu.hk
     address: >
         P504<br />
         Dept. of Computing<br />
