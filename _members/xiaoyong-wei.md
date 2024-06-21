@@ -13,7 +13,7 @@ teaser:
 
 profile:
     name: Prof. Xiaoyong WEI
-    position: Visiting Professor, Department of Computing, The Hong Kong Polytechnic University<br />Professor Head, Department of Computer Science, Sichuan University, China
+    position: Visiting Professor, Department of Computing, The Hong Kong Polytechnic University<br />Professor and Head, Department of Computer Science, Sichuan University, China
     align: right
     image: xiaoyong-wei.jpeg
     email: cs007.wei@polyu.edu.hk
