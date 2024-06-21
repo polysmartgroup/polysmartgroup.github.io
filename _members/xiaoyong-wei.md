@@ -18,6 +18,7 @@ profile:
     image: xiaoyong-wei.jpeg
     email: cs007.wei@polyu.edu.hk
     website: https://www4.comp.polyu.edu.hk/~x1wei/
+    scholar: https://scholar.google.com/citations?user=8kxWTokAAAAJ
     address: >
         PQ829<br />
         Dept. of Computing<br />

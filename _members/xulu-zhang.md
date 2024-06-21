@@ -16,6 +16,7 @@ profile:
     align: left
     image: wengyu-zhang.jpeg
     email: compxulu.zhang@connect.polyu.hk
+    scholar: https://scholar.google.com/citations?user=4UqJoGMAAAAJ
     address: >
         P504<br />
         Dept. of Computing<br />
