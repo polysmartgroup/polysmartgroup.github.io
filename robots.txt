@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://polysmartlab.github.io/sitemap.xml
+Sitemap: https://polysmartgroup.github.io/sitemap.xml
