@@ -6,7 +6,7 @@ group_rank: 2
 
 title: Yiyang JIANG
 description: 
-lastname: aa
+lastname: jiang
 publications: 'author^=*YiyangJIANG'
 
 teaser: 

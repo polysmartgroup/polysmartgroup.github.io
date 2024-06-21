@@ -27,12 +27,12 @@ nav_rank: 2
                     <!-- <p class="card-text">
                         {{ member.teaser }}
                     </p> -->
-                    {% if member.inline == false %}</a>{% endif %}
+                    {% if member.inline == false %} {% endif %}
                     {% if member.profile.email %}
                         <a href="mailto:{{ member.profile.email }}" class="card-link"><i class="fas fa-envelope"></i></a>
                     {% endif %}
                     {% if member.profile.scholar %}
-                        <a href="{{ member.profile.scholar }}" class="card-link" target="_blank"><i class="fa-google-scholar"></i></a>
+                        <a href="{{ member.profile.scholar }}" class="card-link" target="_blank"><i class="fab fa-google-plus-square"></i></a>
                     {% endif %}
                     {% if member.profile.phone %}
                         <a href="tel:{{ member.profile.phone }}" class="card-link"><i class="fas fa-phone"></i></a>

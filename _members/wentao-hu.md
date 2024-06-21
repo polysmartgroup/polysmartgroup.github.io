@@ -1,12 +1,12 @@
 ---
 layout: about
 inline: false
-group: Research Staffs
+group: PhD Student
 group_rank: 2
 
 title: Wentao HU
 description: 
-lastname: aa
+lastname: hu
 publications: 'author^=*WentaoHU'
 
 teaser: 
