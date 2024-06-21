@@ -39,7 +39,7 @@ giscus_comments: true
         {% include video.liquid path="assets/video/SLR_Demo.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="https://github.com/zhangwengyu999/Sign_Language_Recognition_SVM/blob/main/img/2.png?raw=true" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/sign_language.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -56,9 +56,15 @@ giscus_comments: true
 ### 2. Campus Tour Guide
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/Campus_Demo.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/A2_1.jpg" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
+
+- [A Campus Tour Guide with On-campus Landmarks Recognition System](https://github.com/zhangwengyu999/Campus_Tour_Guide)
+
 ---
 
 ## LEARNING OUTCOMES
