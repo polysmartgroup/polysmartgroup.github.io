@@ -6,7 +6,7 @@ group_rank: 1
 
 title: Prof. Xiaoyong WEI
 description: Profile of Prof. Xiaoyong WEI, Head of the Polysmart Group.
-lastname: dd
+lastname: aa
 publications: 'author^=*Weixiaoyong'
 
 teaser: >
@@ -16,7 +16,7 @@ profile:
     name: Prof. Xiaoyong WEI
     position: Visiting Professor, Department of Computing, The Hong Kong Polytechnic University and Professor and Head, Department of Computer Science, Sichuan University, China
     align: right
-    image: assets/img/xiaoyong-wei.jpeg
+    image: xiaoyong-wei.jpeg
     email: cs007.wei@polyu.edu.hk
     twitter: 123
     linkedin: 123
