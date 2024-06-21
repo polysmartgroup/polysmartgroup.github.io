@@ -13,7 +13,7 @@ teaser:
 
 profile:
     name: Yiyang JIANG
-    position: Research Assistant, Department of Computing, The Hong Kong Polytechnic University
+    position: Research Assistant
     align: left
     image: yiyang-jiang.jpeg
     email: fletcher.jiang@connect.polyu.hk

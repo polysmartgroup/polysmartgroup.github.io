@@ -12,7 +12,7 @@ publications: 'author^=*XuluZHANG'
 teaser: 
 profile:
     name: Xulu ZHANG
-    position: PhD Candidate, Department of Computing, The Hong Kong Polytechnic University
+    position: PhD Student
     align: left
     image: xulu-zhang.png
     email: compxulu.zhang@connect.polyu.hk
