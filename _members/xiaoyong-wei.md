@@ -5,12 +5,11 @@ group: Director
 group_rank: 1
 
 title: Prof. Xiaoyong WEI
-description: Profile of Prof. Xiaoyong WEI, Head of the Polysmart Group.
+description: 
 lastname: aa
 publications: 'author^=*Weixiaoyong'
 
-teaser: >
-   Nothing
+teaser: 
 
 profile:
     name: Prof. Xiaoyong WEI
@@ -18,8 +17,6 @@ profile:
     align: right
     image: xiaoyong-wei.jpeg
     email: cs007.wei@polyu.edu.hk
-    twitter: 123
-    linkedin: 123
     orcid: 1234-5678-9012
     address: >
         PQ829<br />

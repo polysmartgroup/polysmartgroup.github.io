@@ -1,28 +1,24 @@
 ---
 layout: about
 inline: false
-group: Director
-group_rank: 1
+group: Student Assistants
+group_rank: 4
 
-title: Prof. Xiaoyong WEI
-description: Profile of Prof. Xiaoyong WEI, Head of the Polysmart Group.
+title: Wengyu ZHANG
+description: 
 lastname: aa
-publications: 'author^=*Weixiaoyong'
+publications: 'author^=*WengyuZHANG'
 
-teaser: >
-   Nothing
+teaser: 
 
 profile:
-    name: Prof. Xiaoyong WEI
-    position: Visiting Professor, Department of Computing, The Hong Kong Polytechnic University and Professor and Head, Department of Computer Science, Sichuan University, China
-    align: right
-    image: xiaoyong-wei.jpeg
-    email: cs007.wei@polyu.edu.hk
-    twitter: 123
-    linkedin: 123
-    orcid: 1234-5678-9012
+    name: Wengyu ZHANG
+    position: Student Assistant, Undergraduate Student, Department of Computing, The Hong Kong Polytechnic University
+    align: left
+    image: wengyu-zhang.jpeg
+    email: wengyu.zhang@connect.polyu.hk
     address: >
-        PQ829<br />
+        P504<br />
         Dept. of Computing<br />
         The Polytechnic University of Hong Kong
 ---
