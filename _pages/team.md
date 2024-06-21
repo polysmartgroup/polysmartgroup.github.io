@@ -17,11 +17,11 @@ nav_rank: 2
     <div class="card {% if member.inline == false %}hoverable{% endif %}">
         <div class="row no-gutters">
             <div class="col-sm-4 col-md-3">
-                <img src="{{ '/assets/img/' | append: member.profile.image | relative_url }}" class="card-img img-fluid" alt="{{ member.profile.name }}" />
+                <img src="{{ '/assets/img/' | append: member.profile.image | relative_url }}" class="card-img img-fluid" style="padding-top: 0" alt="{{ member.profile.name }}" />
             </div>
             <div class="team col-sm-8 col-md-9">
                 <div class="card-body">
-                    {% if member.inline == false %}<a href="{{ member.url | relative_url }}">{% endif %}
+                    <!-- {% if member.inline == false %}<a href="{{ member.url | relative_url }}">{% endif %} -->
                     <h5 class="card-title">{{ member.profile.name }}</h5>
                     {% if member.profile.position %}<h6 class="card-subtitle mb-2 text-muted">{{ member.profile.position }}</h6>{% endif %}
                     <p class="card-text">
@@ -56,6 +56,10 @@ nav_rank: 2
             </div>
         </div>
     </div>
+
 </p>
     {% endfor %}
+<br>
+<br>
+<br>
 {% endfor %}

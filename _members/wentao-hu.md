@@ -17,6 +17,7 @@ profile:
     align: left
     image: wentao-hu.jpeg
     email: email@polyu.edu.hk
+    website: https://scholar.google.com/citations?user=e-Das3gAAAAJ
     address: >
         P504<br />
         Dept. of Computing<br />

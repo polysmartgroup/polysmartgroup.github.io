@@ -17,7 +17,7 @@ profile:
     align: right
     image: xiaoyong-wei.jpeg
     email: cs007.wei@polyu.edu.hk
-    orcid: 1234-5678-9012
+    website: https://www4.comp.polyu.edu.hk/~x1wei/
     address: >
         PQ829<br />
         Dept. of Computing<br />

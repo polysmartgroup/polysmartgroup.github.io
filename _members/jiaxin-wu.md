@@ -17,6 +17,7 @@ profile:
     align: right
     image: jiaxin-wu.jpeg
     email: nikki-jiaxin.wu@polyu.edu.hk
+    website: https://jiaxinwu.weebly.com/
     address: >
         P504<br />
         Dept. of Computing<br />
