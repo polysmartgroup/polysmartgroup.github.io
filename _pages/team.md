@@ -24,9 +24,9 @@ nav_rank: 2
                     <!-- {% if member.inline == false %}<a href="{{ member.url | relative_url }}">{% endif %} -->
                     <h5 class="card-title">{{ member.profile.name }}</h5>
                     {% if member.profile.position %}<h6 class="card-subtitle mb-2 text-muted">{{ member.profile.position }}</h6>{% endif %}
-                    <p class="card-text">
+                    <!-- <p class="card-text">
                         {{ member.teaser }}
-                    </p>
+                    </p> -->
                     {% if member.inline == false %}</a>{% endif %}
                     {% if member.profile.email %}
                         <a href="mailto:{{ member.profile.email }}" class="card-link"><i class="fas fa-envelope"></i></a>
