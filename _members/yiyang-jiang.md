@@ -6,7 +6,7 @@ group_rank: 1
 
 title: Prof. Xiaoyong WEI
 description: Profile of Prof. Xiaoyong WEI, Head of the Polysmart Group.
-lastname: Wei
+lastname: dd
 publications: 'author^=*Weixiaoyong'
 
 teaser: >
