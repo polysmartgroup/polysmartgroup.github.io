@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /team
+permalink: /team/
 title: Team
 description: Members of PolySmart Group.
 nav: true
