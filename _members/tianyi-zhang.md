@@ -4,20 +4,18 @@ inline: false
 group: Student Assistants
 group_rank: 4
 
-title: Wengyu ZHANG
+title: Tianyi ZHANG
 description: 
 lastname: a
-publications: 'author^=*WengyuZHANG'
+publications: 'author^=*TianyiZhang'
 
 teaser: 
 
 profile:
-    name: Wengyu ZHANG
+    name: Tianyi ZHANG
     position: Student Assistant
-    align: left
     image: wengyu-zhang.jpeg
-    email: wengyu.zhang@connect.polyu.hk
-    scholar: https://scholar.google.com/citations?user=zgV2AIAAAAAJ
+    email: tonax.zhang@connect.polyu.hk
     address: >
         P504<br />
         Dept. of Computing<br />

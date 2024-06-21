@@ -13,7 +13,7 @@ teaser:
 
 profile:
     name: Dr. Jiaxin WU
-    position: Post-Doctoral Fellow, Department of Computing, The Hong Kong Polytechnic University
+    position: Post-Doctoral Fellow
     align: right
     image: jiaxin-wu.jpeg
     email: nikki-jiaxin.wu@polyu.edu.hk

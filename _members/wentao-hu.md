@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: false
-group: PhD Student
+group: PhD Students
 group_rank: 2
 
 title: Wentao HU
@@ -13,8 +13,7 @@ teaser:
 
 profile:
     name: Wentao HU
-    position: Research Assistant, Department of Computing, The Hong Kong Polytechnic University
-    align: left
+    position: PhD Student
     image: wentao-hu.jpeg
     email: email@polyu.edu.hk
     website: https://scholar.google.com/citations?user=e-Das3gAAAAJ

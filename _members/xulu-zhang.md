@@ -6,15 +6,15 @@ group_rank: 3
 
 title: Xulu ZHANG
 description: 
-lastname: j
+lastname: a
 publications: 'author^=*XuluZHANG'
 
 teaser: 
 profile:
     name: Xulu ZHANG
-    position: PhD Student, Department of Computing, The Hong Kong Polytechnic University
+    position: PhD Candidate, Department of Computing, The Hong Kong Polytechnic University
     align: left
-    image: wengyu-zhang.jpeg
+    image: xulu-zhang.png
     email: compxulu.zhang@connect.polyu.hk
     scholar: https://scholar.google.com/citations?user=4UqJoGMAAAAJ
     address: >
