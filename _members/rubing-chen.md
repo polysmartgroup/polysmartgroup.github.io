@@ -12,7 +12,7 @@ publications: 'author^=*WengyuZHANG'
 teaser: 
 
 profile:
-    name: Rubing Chen
+    name: Rubing CHEN
     position: Student Assistant
     align: left
     image: rubing-chen.jpg
