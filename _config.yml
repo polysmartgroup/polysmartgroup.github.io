@@ -2,17 +2,17 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: PolySmart # the website title (if blank, full name will be used instead)
-first_name: Poly
+title: PolySmart Group # the website title (if blank, full name will be used instead)
+first_name: PolySmart
 middle_name: 
-last_name: Smart
+last_name: Group
 email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A smart space at PolyU.
 footer_text: > 
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: polysmart-text-512x512.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: polysmart_group_2.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://polysmartlab.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root

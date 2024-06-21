@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Projects in PolySmart Group.
 nav: true
 nav_order: 3
 display_categories: [Computer Vision]

@@ -12,25 +12,11 @@ giscus_comments: true
 
 <br>
 
-## PROJECTS
+(Introduction here)
 
-### 1. Fashion Image Generation
+## What we learn?
 
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="https://raw.githubusercontent.com/zhangwengyu999/Fashion_Image_Generation_Project/main/img/webPage.png" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="https://github.com/zhangwengyu999/Fashion_Image_Generation_Project/blob/main/img/GAN.png?raw=true" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-- [Fashion Image Generation by Generative Adversarial Networks (GANs) on Fashion MNIST](https://github.com/zhangwengyu999/Fashion_Image_Generation_Project)
-
----
-
-## ASSIGNMENTS
+## What we have done?
 
 ### 1. Sign Language Recognition
 
@@ -66,14 +52,25 @@ giscus_comments: true
 
 - [A Campus Tour Guide with On-campus Landmarks Recognition System](https://github.com/zhangwengyu999/Campus_Tour_Guide)
 
+### 3. Fashion Image Generation
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="https://raw.githubusercontent.com/zhangwengyu999/Fashion_Image_Generation_Project/main/img/webPage.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="https://github.com/zhangwengyu999/Fashion_Image_Generation_Project/blob/main/img/GAN.png?raw=true" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+- [Fashion Image Generation by Generative Adversarial Networks (GANs) on Fashion MNIST](https://github.com/zhangwengyu999/Fashion_Image_Generation_Project)
+
+## What is next?
+
 ---
 
-## LEARNING OUTCOMES
+## What do the students say？
 
 ---
 
-## FAQ
-
----
-
-## COMMENTS
+## What do you think?
