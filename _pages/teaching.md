@@ -62,12 +62,6 @@ giscus_comments: true
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/A2_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <!-- <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/A2_1_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/A2_1_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div> -->
 </div>
 
 - [A Campus Tour Guide with On-campus Landmarks Recognition System](https://github.com/zhangwengyu999/Campus_Tour_Guide)
