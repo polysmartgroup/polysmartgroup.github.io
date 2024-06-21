@@ -19,26 +19,26 @@ profiles:
   - align: right
     image: xiaoyong-wei.jpeg
     content: about_xiaoyong-wei.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
   - align: left
     image: jiaxin-wu.jpeg
     content: about_jiaxin-wu.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
   - align: left
     image: wentao-hu.jpeg
     content: about_wentao-hu.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
   - align: left
     image: yiyang-jiang.jpeg
     content: about_yiyang-jiang.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
   - align: right
     image: yiyang-jiang.jpeg
     content: about_xulu-zhang.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
   - align: left
     image: wengyu-zhang.jpeg
     content: about_wengyu-zhang.md
-    image_circular: true # crops the image to make it circular
+    image_circular: false # crops the image to make it circular
 
 ---
