@@ -54,12 +54,16 @@ giscus_comments: true
 
 
 ### 2. Campus Tour Guide
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="assets/video/Campus_Demo.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/A2_1.jpg" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include figure.liquid path="assets/img/A2_1_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/A2_1_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
