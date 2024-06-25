@@ -17,7 +17,7 @@ profile:
     align: left
     image: yiyang-jiang.jpeg
     email: fletcher.jiang@connect.polyu.hk
-    website: https://www.imjyy.com
+    website: https://www.yyjiang.com
     address: >
         P504<br />
         Dept. of Computing<br />
