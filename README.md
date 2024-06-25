@@ -8,7 +8,7 @@
 > - The process can be checked in the Actions tab of the repository.
 > - The website is updated successfully as long as the `pages-build-deployment` job is marked with a green check. You can ignore the error message in the `Prettier code formatter` and `Check for broken links` jobs.
 
-Website url: [https://polysmartlab.github.io/](https://polysmartlab.github.io/)
+Website url: [https://polysmartgroup.github.io/](https://polysmartgroup.github.io/)
 
 # How to edit the content?
 
