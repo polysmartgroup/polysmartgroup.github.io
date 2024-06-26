@@ -16,7 +16,7 @@ profile:
     position: Research Assistant
     align: left
     image: yiyang-jiang.jpeg
-    email: fletcher.jiang@connect.polyu.hk
+    email: yiyang.jiang@polyu.edu.hk
     website: https://www.yyjiang.com
     address: >
         P504<br />
