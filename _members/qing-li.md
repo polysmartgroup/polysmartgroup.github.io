@@ -2,25 +2,25 @@
 layout: about
 inline: false
 group: Director
-group_rank: 2
+group_rank: 1
 
-title: Prof. Xiaoyong WEI
+title: Prof. Qing LI
 description: 
 lastname: aa
-publications: 'author^=*Weixiaoyong'
+publications: 'author^=*Liqing'
 
 teaser: 
 
 profile:
-    name: Prof. Xiaoyong WEI
-    position: Visiting Professor, Department of Computing, The Hong Kong Polytechnic University<br />Professor and Head, Department of Computer Science, Sichuan University, China
+    name: Prof. Qing LI
+    position: Chair Professor of Data Science and Head, Department of Computing, The Hong Kong Polytechnic University
     align: right
-    image: xiaoyong-wei.jpeg
-    email: cs007.wei@polyu.edu.hk
-    website: https://www4.comp.polyu.edu.hk/~x1wei/
-    scholar: https://scholar.google.com/citations?user=8kxWTokAAAAJ
+    image: qing-li.jpg
+    email: qing-prof.li@polyu.edu.hk
+    website: https://www4.comp.polyu.edu.hk/~csqli/
+    scholar: https://scholar.google.com/citations?user=D1LEg-YAAAAJ
     address: >
-        PQ829<br />
+        PQ803a<br />
         Dept. of Computing<br />
         The Polytechnic University of Hong Kong
 ---
