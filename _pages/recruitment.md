@@ -6,7 +6,7 @@ nav: true
 nav_order: 7
 ---
 
-# Student Assistant 2024
+## 1. Student Assistant 2024
 
 We are looking for a student assistant to help with the following tasks.
 ...
