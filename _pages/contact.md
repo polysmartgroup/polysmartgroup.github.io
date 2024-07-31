@@ -3,7 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 nav: true
-nav_order: 8
+nav_order: 9
 ---
 
 [**cs007.wei@polyu.edu.hk**](mailto:cs007.wei@polyu.edu.hk)
