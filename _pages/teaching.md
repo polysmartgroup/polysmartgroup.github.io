@@ -5,7 +5,7 @@ title: Teaching
 description: Projects, assignment, demos, FAQs, comments for COMP4423 Computer Vision course.
 nav: true
 nav_order: 6
-giscus_comments: true
+giscus_comments: false
 ---
 
 # COMP4423 Computer Vision
