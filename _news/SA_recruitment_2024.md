@@ -7,5 +7,6 @@ related_posts: false
 ---
 
 We are recruiting student assistants!
+(We are updating the website, please check back later for more information.)
 
 ---
