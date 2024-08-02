@@ -1,12 +1,11 @@
 ---
 layout: post
-title: We are recruiting student assistants!
+title: student assistants recruitment
 date: 2024-07-24 12:00:00-0100
-inline: false
+inline: true
 related_posts: false
 ---
 
-We are recruiting student assistants!
-(We are updating the website, please check back later for more information.)
+[We are recruiting student assistants!](https://polysmartgroup.github.io/recruitment/)
 
 ---

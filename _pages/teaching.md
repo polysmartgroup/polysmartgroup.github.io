@@ -32,7 +32,7 @@ We mainly focus on the following topics:
 - Large Models
 - And more...
 
-You can find learning details, slides, videos and other resources [here](https://github.com/lookwei/COMP4423)
+You can find learning details, slides, videos and other resources [here](https://github.com/lookwei/COMP4423).
 
 ## 2. What we have done?
 
@@ -92,4 +92,4 @@ Rubing Chen, Wengyu Zhang, Yiyang Jiang, as year 2 undergraduate students, took 
 You could find more information about the students' development and achievements [here](https://polysmartgroup.github.io/gain/).
 
 
-## 4. What do the students say？
+<!-- ## 4. What do the students say？ -->
