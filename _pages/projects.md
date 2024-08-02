@@ -5,7 +5,7 @@ permalink: /projects/
 description: Projects in PolySmart Group.
 nav: true
 nav_order: 3
-display_categories: [Computer Vision]
+display_categories: 
 horizontal: false
 ---
 
