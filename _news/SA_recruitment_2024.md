@@ -7,5 +7,3 @@ related_posts: false
 ---
 
 [We are recruiting student assistants!](https://polysmartgroup.github.io/recruitment/)
-
----
