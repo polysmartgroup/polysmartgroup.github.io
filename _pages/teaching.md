@@ -2,23 +2,41 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Projects, assignment, demos, FAQs, comments for COMP4423 Computer Vision course.
+description: 
 nav: true
 nav_order: 6
 giscus_comments: false
 ---
 
 # COMP4423 Computer Vision
+COMP4423 Computer Vision for Beginners at the Hong Kong Polytechnic University.
 
 <br>
 
-(Introduction here)
+<!-- (Introduction here) -->
 
-## What we learn?
+## 1. What we learn?
 
-## What we have done?
+> "Learning CV by playing it"
 
-### 1. Sign Language Recognition
+We mainly focus on the following topics:
+- Image Processing
+- Feature Extraction
+- Image Retrieval Fundamentals
+- Image Classification Fundamentals
+- Traditional Machine Learning to Deep Learning
+- Deep Image Retrieval
+- CAM, Attentions and Transformers
+- Detection & Segmentation
+- Learning Paradigms
+- Large Models
+- And more...
+
+You can find learning details, slides, videos and other resources [here](https://github.com/lookwei/COMP4423)
+
+## 2. What we have done?
+
+### 2.1 Sign Language Recognition
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -39,7 +57,7 @@ giscus_comments: false
 - [Sign Language Recognition System by Support Vector Machines (SVM)](https://github.com/zhangwengyu999/Sign_Language_Recognition_SVM)
 
 
-### 2. Campus Tour Guide
+### 2.2 Campus Tour Guide
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -52,7 +70,7 @@ giscus_comments: false
 
 - [A Campus Tour Guide with On-campus Landmarks Recognition System](https://github.com/zhangwengyu999/Campus_Tour_Guide)
 
-### 3. Fashion Image Generation
+### 2.3 Fashion Image Generation
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -65,12 +83,13 @@ giscus_comments: false
 
 - [Fashion Image Generation by Generative Adversarial Networks (GANs) on Fashion MNIST](https://github.com/zhangwengyu999/Fashion_Image_Generation_Project)
 
-## What is next?
+## 3. What is next?
 
----
+In this course, we not only learn the basic knowledge of computer vision, but also apply and transform the knowledge into practical projects as well as further research topics.
 
-## What do the students say？
+Rubing Chen, Wengyu Zhang, Yiyang Jiang, as year 2 undergraduate students, took the course in 2023, and Tianyi Zhang, as a year 3 undergraduate student, took the course in 2024. They were further joined the PolySmart Group as student assistants for research and development projects.
 
----
+You could find more information about the students' development and achievements [here](https://polysmartgroup.github.io/gain/).
 
-## What do you think?
+
+## 4. What do the students say？
