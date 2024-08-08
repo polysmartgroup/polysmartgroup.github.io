@@ -20,7 +20,7 @@ nav_order: 7
     </div>
 </div>
 
-We are looking for a student assistant to help with various projects in our lab. This is a great opportunity for undergraduate students to gain hands-on experience in cutting-edge research and to work alongside experienced researchers and faculty members.
+We are looking for student assistants to help with various projects in our lab. This is a great opportunity for undergraduate students to gain hands-on experience in cutting-edge project and research as well as to work alongside top students and experienced researchers.
 
 Requirements:
 - Undergraduate students from Year 1 to Year 3.
