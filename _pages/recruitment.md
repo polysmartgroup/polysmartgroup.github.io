@@ -21,11 +21,11 @@ nav_order: 7
 </div>
 
 We are looking for a student assistant to help with various projects in our lab. This is a great opportunity for undergraduate students to gain hands-on experience in cutting-edge research and to work alongside experienced researchers and faculty members.
-Requirements:
 
-- Undergraduate students in Year 1 to Year 3.
-- Proficiency in Python and PyTorch.
-- Experience with front-end (JavaScript, HTML, CSS) and back-end (Node.js, Django, Flask) development.
+Requirements:
+- Undergraduate students from Year 1 to Year 3.
+- Experience with Python, PyTorch or other programming languages and frameworks.
+- Experience with front-end (JavaScript, HTML, CSS, ...) or back-end (Node.js, Django, Flask, ...) development.
 
 Current student assistants are working on following tasks:
 - [AI Coffee Robot System](https://polysmartgroup.github.io/projects/ai_coffee_robot/)
@@ -39,6 +39,6 @@ As a student assistant, you will have the opportunity to work on projects and re
 
 For more information on the benefits of being a student assistant, please check [What the current student assistants gain from PolySmart Group?](https://polysmartgroup.github.io/gain/)
 
-If you are interested, please contact Prof. Xiaoyong Wei by email [cs007.wei@polyu.edu.hk](mailto:cs007.wei@polyu.edu.hk). Please attach your resume and use the email subject line: "Application for Student Assistant 2024 - [Your Name]".
+**If you are interested, please contact Prof. Xiaoyong Wei by email [cs007.wei@polyu.edu.hk](mailto:cs007.wei@polyu.edu.hk). Please attach your CV and use the email subject title: "Application for Student Assistant 2024 - [Your Name]" (please kindly specify your current year of study).**
 
 We are looking forward to working with you in the PolySmart Group!
