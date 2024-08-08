@@ -37,8 +37,8 @@ Current student assistants are working on following tasks:
 
 As a student assistant, you will have the opportunity to work on projects and researches that integrate Computer Vision, NLP, Robotics, AIoT, Health Computing, and more.
 
-For more information on the benefits of being a student assistant, please check [What the current student assistants gain from PolySmart Group?](https://polysmartgroup.github.io/gain/)
+For more information on the benefits of being a student assistant, please check [What the current student assistants gain from the PolySmart Group?](https://polysmartgroup.github.io/gain/)
 
-**If you are interested, please contact Prof. Xiaoyong Wei by email [cs007.wei@polyu.edu.hk](mailto:cs007.wei@polyu.edu.hk). Please attach your CV and use the email subject title: "Application for Student Assistant 2024 - [Your Name]" (please kindly specify your current year of study).**
+**If you are interested, please contact Prof. Xiaoyong Wei by email [cs007.wei@polyu.edu.hk](mailto:cs007.wei@polyu.edu.hk). Please attach your CV and use the email subject title: "Application for Student Assistant 2024 - [Your Name]" (please kindly specify your year of study in the coming Year 2024/25 Semester 1).**
 
 We are looking forward to working with you in the PolySmart Group!
