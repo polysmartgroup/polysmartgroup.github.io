@@ -13,7 +13,7 @@ nav_order: 7
         {% include figure.liquid loading="eager" path="assets/img/polysmart_head_img.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/coffee_robot_demo_1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/coffee_robot_demo_4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/coffee_robot_demo_2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
