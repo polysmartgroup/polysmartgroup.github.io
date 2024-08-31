@@ -1,8 +1,8 @@
 ---
 layout: about
 inline: false
-group: Research Staffs
-group_rank: 2
+group: PhD Students
+group_rank: 3
 
 title: Wentao HU
 description: 
@@ -13,9 +13,9 @@ teaser:
 
 profile:
     name: Wentao HU
-    position: Research Assistant
+    position: PhD Student
     image: wentao-hu.jpeg
-    email: email@polyu.edu.hk
+    email: 24081066r@connect.polyu.hk
     scholar: https://scholar.google.com/citations?user=e-Das3gAAAAJ
     address: >
         P504<br />
