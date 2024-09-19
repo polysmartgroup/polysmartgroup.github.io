@@ -2,7 +2,7 @@
 layout: about
 inline: false
 group: PhD Students
-group_rank: 1
+group_rank: 3
 
 title: Wentao HU
 description: 

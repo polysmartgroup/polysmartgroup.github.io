@@ -2,7 +2,7 @@
 layout: about
 inline: false
 group: Research Staffs
-group_rank: 3
+group_rank: 2
 
 title: Yiyang JIANG
 description: 

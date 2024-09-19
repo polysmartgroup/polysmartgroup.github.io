@@ -2,7 +2,7 @@
 layout: about
 inline: false
 group: Research Staffs
-group_rank: 1
+group_rank: 2
 
 title: Dr. Jiaxin WU
 description: 
