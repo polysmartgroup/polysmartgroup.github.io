@@ -6,7 +6,7 @@ group_rank: 2
 
 title: Prof. Xiaoyong WEI
 description: 
-lastname: aa
+lastname: xiaoyong
 publications: 'author^=*Weixiaoyong'
 
 teaser: 

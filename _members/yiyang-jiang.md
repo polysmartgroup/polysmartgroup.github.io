@@ -2,11 +2,11 @@
 layout: about
 inline: false
 group: Research Staffs
-group_rank: 2
+group_rank: 3
 
 title: Yiyang JIANG
 description: 
-lastname: jiang
+lastname: yiyang
 publications: 'author^=*YiyangJIANG'
 
 teaser: 

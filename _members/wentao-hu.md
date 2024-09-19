@@ -6,7 +6,7 @@ group_rank: 1
 
 title: Wentao HU
 description: 
-lastname: hu
+lastname: wentao
 publications: 'author^=*WentaoHU'
 
 teaser: 

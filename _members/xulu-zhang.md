@@ -6,7 +6,7 @@ group_rank: 2
 
 title: Xulu ZHANG
 description: 
-lastname: a
+lastname: xulu
 publications: 'author^=*XuluZHANG'
 
 teaser: 

@@ -2,11 +2,11 @@
 layout: about
 inline: false
 group: Research Staffs
-group_rank: 2
+group_rank: 1
 
 title: Dr. Jiaxin WU
 description: 
-lastname: aa
+lastname: jiaxin
 publications: 'author^=*JiaxinWU'
 
 teaser: 

@@ -6,7 +6,7 @@ group_rank: 1
 
 title: Prof. Qing LI
 description: 
-lastname: aa
+lastname: qing
 publications: 'author^=*Liqing'
 
 teaser: 

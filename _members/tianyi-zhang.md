@@ -6,7 +6,7 @@ group_rank: 4
 
 title: Tianyi ZHANG
 description: 
-lastname: zhang
+lastname: tianyi
 publications: 'author^=*TianyiZhang'
 
 teaser: 
