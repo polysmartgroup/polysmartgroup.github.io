@@ -4,7 +4,7 @@ inline: false
 group: PhD Students
 group_rank: 3
 
-title: Wentao HU
+title: Wentao HU1
 description: 
 lastname: wentao
 publications: 'author^=*WentaoHU'
