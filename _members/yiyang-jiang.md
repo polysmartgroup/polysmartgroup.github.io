@@ -18,6 +18,7 @@ profile:
     image: yiyang-jiang.jpeg
     email: yiyang.jiang@polyu.edu.hk
     website: https://www.yyjiang.com
+    scholar: https://scholar.google.com/citations?user=TvyGmeEAAAAJ
     address: >
         P504<br />
         Dept. of Computing<br />
