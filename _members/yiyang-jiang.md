@@ -14,6 +14,7 @@ teaser:
 profile:
     name: Yiyang JIANG
     position: Research Assistant
+    time: 2023.5 -
     align: left
     image: yiyang-jiang.jpeg
     email: yiyang.jiang@polyu.edu.hk

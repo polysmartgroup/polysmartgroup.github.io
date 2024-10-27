@@ -14,6 +14,7 @@ teaser:
 profile:
     name: Rubing CHEN
     position: Student Assistant
+    time: 2023.5 -
     align: left
     image: rubing-chen.jpg
     email: ru-bing.chen@connect.polyu.hk

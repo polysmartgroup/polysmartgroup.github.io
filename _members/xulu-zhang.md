@@ -13,6 +13,7 @@ teaser:
 profile:
     name: Xulu ZHANG
     position: PhD Student
+    time: 2022.9 -
     align: left
     image: xulu-zhang.png
     email: compxulu.zhang@connect.polyu.hk
