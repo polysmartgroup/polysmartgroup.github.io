@@ -39,6 +39,6 @@ As a student assistant, you will have the opportunity to work on projects and re
 
 For more information on the benefits of being a student assistant, please check [What the current student assistants gain from the PolySmart Group?](https://polysmartgroup.github.io/gain/)
 
-**If you are interested, please contact Prof. Xiaoyong Wei by email [cs007.wei@polyu.edu.hk](mailto:cs007.wei@polyu.edu.hk). Please attach your CV and use the email subject title: "Application for Student Assistant 2024 - [Your Name]" (please kindly specify your year of study in the coming Year 2024/25 Semester 1).**
+**If you are interested, please contact Prof. Xiaoyong Wei by email [cs007.wei@polyu.edu.hk](mailto:cs007.wei@polyu.edu.hk). Please attach your CV and use the email subject title: "Application for Student Assistant 2024 - [Your Name]" (please kindly specify your year of study in 2024/25 Academic Year, and your expected graduation date).**
 
 We are looking forward to working with you in the PolySmart Group!
