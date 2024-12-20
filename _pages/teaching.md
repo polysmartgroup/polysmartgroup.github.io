@@ -9,7 +9,7 @@ giscus_comments: false
 ---
 
 # COMP4423 Computer Vision
-COMP4423 Computer Vision for Beginners at the Hong Kong Polytechnic University.
+Computer Vision (CV) for Beginners at the Hong Kong Polytechnic University.
 
 <br>
 
@@ -17,7 +17,7 @@ COMP4423 Computer Vision for Beginners at the Hong Kong Polytechnic University.
 
 ## 1. What we learn?
 
-> "Learning CV by playing it"
+> "Learning CV by playing it."
 
 We mainly focus on the following topics:
 - Image Processing
@@ -32,7 +32,9 @@ We mainly focus on the following topics:
 - Large Models
 - And more...
 
-You can find learning details, slides, videos and other resources [here](https://github.com/lookwei/COMP4423).
+**You can find more information, such as the pre-requisite, in the offical Subject Description Form [here](https://www.polyu.edu.hk/comp/docdrive/ug/subject/COMP4423.pdf)**.
+
+**You can find learning details, slides, videos, codes and other resources [here](https://github.com/lookwei/COMP4423)**.
 
 ## 2. What we have done?
 

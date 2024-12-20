@@ -12,8 +12,8 @@ publications: 'author^=*XuluZHANG'
 teaser: 
 profile:
     name: Xulu ZHANG
-    position: PhD Student
-    time: 2022.9 -
+    position: PhD Candidate
+    time: 2022.9 - Present
     align: left
     image: xulu-zhang.png
     email: compxulu.zhang@connect.polyu.hk

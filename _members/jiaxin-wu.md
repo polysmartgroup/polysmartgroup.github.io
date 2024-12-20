@@ -14,7 +14,7 @@ teaser:
 profile:
     name: Dr. Jiaxin WU
     position: Post-Doctoral Fellow
-    time: 2024.4 -
+    time: 2024.4 - Present
     align: right
     image: jiaxin-wu.jpeg
     email: nikki-jiaxin.wu@polyu.edu.hk

@@ -14,7 +14,7 @@ teaser:
 profile:
     name: Wengyu ZHANG
     position: Student Assistant
-    time: 2023.5 -
+    time: 2023.5 - Present
     align: left
     image: wengyu-zhang.jpeg
     email: wengyu.zhang@connect.polyu.hk

@@ -14,7 +14,7 @@ teaser:
 profile:
     name: Tianyi ZHANG
     position: Student Assistant
-    time: 2022.7 -
+    time: 2022.7 - 2024.11
     image: tianyi-zhang.jpg
     email: tonax.zhang@connect.polyu.hk
     scholar: https://scholar.google.com/citations?user=2BOyNTAAAAAJ
