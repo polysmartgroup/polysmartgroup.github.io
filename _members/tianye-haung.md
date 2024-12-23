@@ -1,27 +1,25 @@
 ---
 layout: about
 inline: false
-group: Student Assistants
-group_rank: 4
+group: Intern
+group_rank: 5
 
-title: Honghe Ding
+title: Tianye Huang
 description: 
-lastname: honghe
-publications: 'author^=*HongheDING'
+lastname: tianye
+publications: 'author^=*TianyeHuang'
 
 teaser: 
 
 profile:
-    name: Honghe Ding
-    position: Student Assistant
+    name: Tianye Huang
+    position: Research Intern
     time: 2024.9 - Present
     align: left
-    image: dinghonghe.jpg
-    email: dinghonghe0307@gmail.com
+    image: huangtianye.jpg
+    website: https://huangty5121.github.io/
+    email: yeh.huang@connect.polyu.hk
     address: >
-        P504<br />
-        Dept. of Computing<br />
-        The Polytechnic University of Hong Kong
 ---
 
 <!-- # Student Assistants
