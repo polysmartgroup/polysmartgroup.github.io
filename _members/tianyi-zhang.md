@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: false
-group: Almuni
+group: Alumni
 group_rank: 5
 
 title: Tianyi ZHANG
