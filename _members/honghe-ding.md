@@ -18,9 +18,6 @@ profile:
     align: left
     image: dinghonghe.jpg
     email: dinghonghe0307@gmail.com
-    address: >
-        Dept. of Computing<br />
-        The Polytechnic University of Hong Kong
 ---
 
 <!-- # Student Assistants

@@ -18,7 +18,4 @@ profile:
     align: left
     image: duhaoqian.jpg
     email: duhaoqian879@gamil.com
-    address: >
-        Dept. of Computing<br />
-        The Polytechnic University of Hong Kong
 ---

@@ -19,9 +19,6 @@ profile:
     image: huangtianye.jpg
     website: https://huangty5121.github.io/
     email: yeh.huang@connect.polyu.hk
-    address: >
-        Dept. of Computing<br />
-        The Polytechnic University of Hong Kong
 ---
 
 <!-- # Student Assistants
