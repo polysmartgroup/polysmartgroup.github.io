@@ -18,6 +18,9 @@ profile:
     align: left
     image: daiyuhang.jpg
     email: 22097845d@connect.polyu.hk
+    address: >
+        Dept. of Computing<br />
+        The Polytechnic University of Hong Kong
 ---
 
 <!-- # Student Assistants
