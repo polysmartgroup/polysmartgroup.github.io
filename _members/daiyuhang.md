@@ -4,20 +4,20 @@ inline: false
 group: Student Assistants
 group_rank: 4
 
-title: Rubing Chen
+title: Yuhang Dai
 description: 
-lastname: rubing
-publications: 'author^=*WengyuZHANG'
+lastname: dai
+publications: 'author^=*YuhangDAI'
 
 teaser: 
 
 profile:
-    name: Rubing CHEN
+    name: Yuhang Dai
     position: Student Assistant
-    time: 2023.5 - Present
+    time: 2024.11 - Present
     align: left
-    image: rubing-chen.jpg
-    email: ru-bing.chen@connect.polyu.hk
+    image: daiyuhang.jpg
+    email: 22097845d@connect.polyu.hk
     address: >
         P504<br />
         Dept. of Computing<br />

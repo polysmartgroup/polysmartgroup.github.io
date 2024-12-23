@@ -1,8 +1,8 @@
 ---
 layout: about
 inline: false
-group: Student Assistants
-group_rank: 4
+group: Almuni
+group_rank: 5
 
 title: Tianyi ZHANG
 description: 

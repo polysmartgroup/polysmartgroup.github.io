@@ -4,20 +4,20 @@ inline: false
 group: Student Assistants
 group_rank: 4
 
-title: Rubing Chen
+title: Haoming Yuan
 description: 
-lastname: rubing
-publications: 'author^=*WengyuZHANG'
+lastname: yuan
+publications: 'author^=*HaomingYUAN'
 
 teaser: 
 
 profile:
-    name: Rubing CHEN
+    name: Haoming Yuan
     position: Student Assistant
-    time: 2023.5 - Present
+    time: 2024.9 - 
     align: left
-    image: rubing-chen.jpg
-    email: ru-bing.chen@connect.polyu.hk
+    image: yuanhaoming.jpg
+    email: 23099168d@connect.polyu.hk
     address: >
         P504<br />
         Dept. of Computing<br />

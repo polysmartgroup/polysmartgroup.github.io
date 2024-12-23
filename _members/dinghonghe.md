@@ -4,19 +4,19 @@ inline: false
 group: Student Assistants
 group_rank: 4
 
-title: Rubing Chen
+title: Honghe Ding
 description: 
-lastname: rubing
-publications: 'author^=*WengyuZHANG'
+lastname: ding
+publications: 'author^=*HongheDING'
 
 teaser: 
 
 profile:
-    name: Rubing CHEN
+    name: Honghe Ding
     position: Student Assistant
-    time: 2023.5 - Present
+    time: 2024.9 - Present
     align: left
-    image: rubing-chen.jpg
+    image: dinghonghe.jpg
     email: ru-bing.chen@connect.polyu.hk
     address: >
         P504<br />
