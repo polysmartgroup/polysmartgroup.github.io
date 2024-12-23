@@ -6,7 +6,7 @@ group_rank: 4
 
 title: Wengyu ZHANG
 description: 
-lastname: wengyu
+lastname: zhang
 publications: 'author^=*WengyuZHANG'
 
 teaser: 

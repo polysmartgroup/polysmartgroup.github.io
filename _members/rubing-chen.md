@@ -6,7 +6,7 @@ group_rank: 4
 
 title: Rubing Chen
 description: 
-lastname: rubing
+lastname: chen
 publications: 'author^=*WengyuZHANG'
 
 teaser: 
