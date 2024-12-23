@@ -19,7 +19,6 @@ profile:
     image: huangtianye.jpg
     website: https://huangty5121.github.io/
     email: yeh.huang@connect.polyu.hk
-    address: >
 ---
 
 <!-- # Student Assistants
