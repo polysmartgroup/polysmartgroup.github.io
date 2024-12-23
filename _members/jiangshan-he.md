@@ -14,7 +14,7 @@ teaser:
 profile:
     name: Jiangshan HE
     position: Research Assistant
-    time: 2024.9 - Present
+    time: 2024.9 - 2031.9
     align: left
     image: jiangshan-he.jpeg
     email: jiangshan.he@polyu.edu.hk
