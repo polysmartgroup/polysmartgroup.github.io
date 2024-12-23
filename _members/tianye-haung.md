@@ -4,21 +4,24 @@ inline: false
 group: Intern
 group_rank: 5
 
-title: Tianye Huang
+title: Tin Yeh Huang
 description: 
-lastname: tianye
-publications: 'author^=*TianyeHuang'
+lastname: tinyeh
+publications: 'author^=*TinYehHUANG'
 
 teaser: 
 
 profile:
-    name: Tianye Huang
+    name: Tin Yeh Huang
     position: Research Intern
     time: 2024.9 - Present
     align: left
     image: huangtianye.jpg
     website: https://huangty5121.github.io/
     email: yeh.huang@connect.polyu.hk
+    address: >
+        Dept. of Computing<br />
+        The Polytechnic University of Hong Kong
 ---
 
 <!-- # Student Assistants

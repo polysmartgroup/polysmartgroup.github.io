@@ -18,6 +18,9 @@ profile:
     align: left
     image: yuanhaoming.jpg
     email: 23099168d@connect.polyu.hk
+    address: >
+        Dept. of Computing<br />
+        The Polytechnic University of Hong Kong
 ---
 
 <!-- # Student Assistants
