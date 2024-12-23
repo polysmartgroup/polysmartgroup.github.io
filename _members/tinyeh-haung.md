@@ -4,7 +4,7 @@ inline: false
 group: Intern
 group_rank: 5
 
-title: Tin Yeh Huang
+title: Tin Yeh HUANG
 description: 
 lastname: tinyeh
 publications: 'author^=*TinYehHUANG'
@@ -12,7 +12,7 @@ publications: 'author^=*TinYehHUANG'
 teaser: 
 
 profile:
-    name: Tin Yeh Huang
+    name: Tin Yeh HUANG
     position: Research Intern
     time: 2024.9 - Present
     align: left

@@ -4,7 +4,7 @@ inline: false
 group: Student Assistants
 group_rank: 4
 
-title: Haoqian Du
+title: Haoqian DU
 description: 
 lastname: haoqian
 publications: 'author^=*haoqianDU'
@@ -12,7 +12,7 @@ publications: 'author^=*haoqianDU'
 teaser: 
 
 profile:
-    name: Haoqian Du
+    name: Haoqian DU
     position: Student Assistant
     time: 2024.9 - Present
     align: left
