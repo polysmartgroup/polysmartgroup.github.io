@@ -55,12 +55,12 @@ nav_rank: 2
                     {% endif %}
                     {% if member.profile.interest %}
                         <p class="card-text">
-                            <small class="test-muted"><i class="fas fa-thumbtack"></i> {{ member.profile.address | replace: '<br />', ', ' }}</small>
+                            <small class="test-muted"><i class="fas fa-thumbtack"></i> {{ member.profile.interest | replace: '<br />', ', ' }}</small>
                         </p>
                     {% endif %}
                     {% if member.profile.address %}
                         <p class="card-text">
-                            <small class="test-muted"><i class="fas fa-heart"></i> {{ member.profile.interest | replace: '<br />', ', ' }}</small>
+                            <small class="test-muted"><i class="fas fa-heart"></i> {{ member.profile.interest | address: '<br />', ', ' }}</small>
                         </p>
                     {% endif %}
 
