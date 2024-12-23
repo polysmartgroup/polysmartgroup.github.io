@@ -6,7 +6,7 @@ group_rank: 4
 
 title: Haoqian Du
 description: 
-lastname: du
+lastname: haoqian
 publications: 'author^=*haoqianDU'
 
 teaser: 

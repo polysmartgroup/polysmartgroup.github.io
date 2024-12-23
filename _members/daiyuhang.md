@@ -6,7 +6,7 @@ group_rank: 4
 
 title: Yuhang Dai
 description: 
-lastname: dai
+lastname: yuhang
 publications: 'author^=*YuhangDAI'
 
 teaser: 

@@ -6,7 +6,7 @@ group_rank: 4
 
 title: Haoming Yuan
 description: 
-lastname: yuan
+lastname: haoming
 publications: 'author^=*HaomingYUAN'
 
 teaser: 

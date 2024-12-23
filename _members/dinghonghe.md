@@ -6,7 +6,7 @@ group_rank: 4
 
 title: Honghe Ding
 description: 
-lastname: ding
+lastname: honghe
 publications: 'author^=*HongheDING'
 
 teaser: 
