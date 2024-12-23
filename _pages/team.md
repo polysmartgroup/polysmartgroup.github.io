@@ -54,12 +54,12 @@ nav_rank: 2
                         <a href="{{ member.profile.website }}" class="card-link" target="_blank"><i class="fas fa-globe"></i></a>
                     {% endif %}
                     {% if member.profile.interest %}
-                        <p class="card-text">
+                        <p class="card-text" style="height: 10px;">
                             <small class="test-muted"><i class="fas fa-magnifying-glass"></i> {{ member.profile.interest | replace: '<br />', ', ' }}</small>
                         </p>
                     {% endif %}
                     {% if member.profile.address %}
-                        <p class="card-text">
+                        <p class="card-text" style="height: 10px;">
                             <small class="test-muted"><i class="fas fa-thumbtack"></i> {{ member.profile.address | replace: '<br />', ', ' }}</small>
                         </p>
                     {% endif %}
