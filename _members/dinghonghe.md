@@ -17,7 +17,7 @@ profile:
     time: 2024.9 - Present
     align: left
     image: dinghonghe.jpg
-    email: ru-bing.chen@connect.polyu.hk
+    email: 
     address: >
         P504<br />
         Dept. of Computing<br />
