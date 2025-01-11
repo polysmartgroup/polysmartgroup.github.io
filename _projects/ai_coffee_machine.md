@@ -15,10 +15,7 @@ importance: 1
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/coffee_robot.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/ai_coffee_machine_pipeline.svg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/coffee_machine.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -29,29 +26,24 @@ importance: 1
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <video id="video" controls="" preload="auto" allowfullscreen="true" position= "absolute" width="100%">
-            <source src="assets/img/Coffee_Demo_1_can_eng_2.mp4" type="video/mp4" >
-        </video>
+        {% include video.liquid path="assets/img/Coffee_Demo_1_can_eng_2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
+</div>
+<div class="caption">
+    Order coffee through human natural language and virtual assistant.
 </div>
 
 ### Recommend Coffee
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <video id="video" controls="" preload="auto" allowfullscreen="true" position= "absolute" width="100%">
-            <source src="assets/img/Coffee_Demo_1_can_eng_2.mp4" type="video/mp4" >
-        </video>
+        {% include video.liquid path="assets/img/Coffee_Demo_1_can_eng_2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <video id="video" controls="" preload="auto" allowfullscreen="true" position= "absolute" width="100%">
-            <source src="assets/img/Coffee_Demo_1_can_eng_2.mp4" type="video/mp4" >
-        </video>
+        {% include video.liquid path="assets/img/Coffee_Demo_1_can_eng_2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <video id="video" controls="" preload="auto" allowfullscreen="true" position= "absolute" width="100%">
-            <source src="assets/img/Coffee_Demo_1_can_eng_2.mp4" type="video/mp4" >
-        </video>
+        {% include video.liquid path="assets/img/Coffee_Demo_1_can_eng_2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
 
@@ -59,26 +51,18 @@ importance: 1
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <video id="video" controls="" preload="auto" allowfullscreen="true" position= "absolute" width="100%">
-            <source src="assets/img/Coffee_Demo_1_can_eng_2.mp4" type="video/mp4" >
-        </video>
+        {% include video.liquid path="assets/img/Coffee_Demo_1_can_eng_2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <video id="video" controls="" preload="auto" allowfullscreen="true" position= "absolute" width="100%">
-            <source src="assets/img/Coffee_Demo_1_can_eng_2.mp4" type="video/mp4" >
-        </video>
+        {% include video.liquid path="assets/img/Coffee_Demo_1_can_eng_2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <video id="video" controls="" preload="auto" allowfullscreen="true" position= "absolute" width="100%">
-            <source src="assets/img/Coffee_Demo_1_can_eng_2.mp4" type="video/mp4" >
-        </video>
+        {% include video.liquid path="assets/img/Coffee_Demo_1_can_eng_2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <video id="video" controls="" preload="auto" allowfullscreen="true" position= "absolute" width="100%">
-            <source src="assets/img/Coffee_Demo_1_can_eng_2.mp4" type="video/mp4" >
-        </video>
+        {% include video.liquid path="assets/img/Coffee_Demo_1_can_eng_2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
