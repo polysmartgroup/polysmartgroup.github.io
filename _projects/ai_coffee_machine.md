@@ -52,7 +52,7 @@ importance: 1
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/img/Coffee_Demo_2_can_eng_4.mp4" class="img-fluid rounded z-depth-1 w-40 "controls=true autoplay=true %}
+        {% include video.liquid path="assets/img/Coffee_Demo_2_can_eng_4.mp4" class="img-fluid rounded z-depth-1 w-40" controls=true autoplay=true %}
         <div class="caption">
             I have a friend, he can hardly sleep at night, and he is very energetic. Would you recommend him a cup of coffee?
         </div>
