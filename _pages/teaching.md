@@ -9,13 +9,13 @@ giscus_comments: false
 ---
 
 # COMP4423 Computer Vision
-Computer Vision (CV) for Beginners at the Hong Kong Polytechnic University.
+Computer Vision (CV) for beginners at the Hong Kong Polytechnic University.
 
 <br>
 
 <!-- (Introduction here) -->
 
-## 1. What we learn?
+## 1. What do we learn?
 
 > "Learning CV by playing it."
 
@@ -30,13 +30,13 @@ We mainly focus on the following topics:
 - Detection & Segmentation
 - Learning Paradigms
 - Large Models
-- And more...
+- and more...
 
-**You can find more information, such as the pre-requisite, in the offical Subject Description Form [here](https://www.polyu.edu.hk/comp/docdrive/ug/subject/COMP4423.pdf)**.
+**You can find more information, such as the pre-requisite, in the official Subject Description Form [here](https://www.polyu.edu.hk/comp/docdrive/ug/subject/COMP4423.pdf)**.
 
 **You can find learning details, slides, videos, codes and other resources [here](https://github.com/lookwei/COMP4423)**.
 
-## 2. What we have done?
+## 2. What have we done?
 
 ### 2.1 Sign Language Recognition
 
@@ -87,11 +87,11 @@ We mainly focus on the following topics:
 
 ## 3. What is next?
 
-In this course, we not only learn the basic knowledge of computer vision, but also apply and transform the knowledge into practical projects as well as further research topics.
+In this course, we not only learn the basic knowledge of computer vision but also apply and transform the knowledge into practical projects as well as further research topics.
 
-Rubing Chen, Wengyu Zhang, Yiyang Jiang, as year 2 undergraduate students, took the course in 2023, and Tianyi Zhang, as a year 3 undergraduate student, took the course in 2024. They were further joined the PolySmart Group as student assistants for research and development projects.
+Rubing Chen, Wengyu Zhang, and Yiyang Jiang, as year 2 undergraduate students, took the course in 2023, and Tianyi Zhang, as a year 3 undergraduate student, took the course in 2024. They have further joined the [PolySmart Group](https://polysmartgroup.github.io/) as student assistants for research and engineering projects.
 
-You could find more information about the students' development and achievements [here](https://polysmartgroup.github.io/gain/).
+You can find more information about the student's development and achievements [here](https://polysmartgroup.github.io/gain/).
 
 
 <!-- ## 4. What do the students say？ -->

@@ -4,7 +4,7 @@ inline: false
 group: Student Assistants
 group_rank: 4
 
-title: Haoming Yuan
+title: Haoming YUAN
 description: 
 lastname: haoming
 publications: 'author^=*HaomingYUAN'
@@ -12,15 +12,12 @@ publications: 'author^=*HaomingYUAN'
 teaser: 
 
 profile:
-    name: Haoming Yuan
+    name: Haoming YUAN
     position: Student Assistant
     time: 2024.9 - Present
     align: left
     image: yuanhaoming.jpg
     email: 23099168d@connect.polyu.hk
-    address: >
-        Dept. of Computing<br />
-        The Polytechnic University of Hong Kong
 ---
 
 <!-- # Student Assistants

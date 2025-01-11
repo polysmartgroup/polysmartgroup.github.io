@@ -4,7 +4,7 @@ inline: false
 group: Student Assistants
 group_rank: 4
 
-title: Honghe Ding
+title: Honghe DING
 description: 
 lastname: honghe
 publications: 'author^=*HongheDING'
@@ -12,15 +12,12 @@ publications: 'author^=*HongheDING'
 teaser: 
 
 profile:
-    name: Honghe Ding
+    name: Honghe DING
     position: Student Assistant
     time: 2024.9 - Present
     align: left
     image: dinghonghe.jpg
     email: dinghonghe0307@gmail.com
-    address: >
-        Dept. of Computing<br />
-        The Polytechnic University of Hong Kong
 ---
 
 <!-- # Student Assistants

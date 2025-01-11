@@ -4,7 +4,7 @@ inline: false
 group: Student Assistants
 group_rank: 4
 
-title: Yuhang Dai
+title: Yuhang DAI
 description: 
 lastname: yuhang
 publications: 'author^=*YuhangDAI'
@@ -12,15 +12,12 @@ publications: 'author^=*YuhangDAI'
 teaser: 
 
 profile:
-    name: Yuhang Dai
+    name: Yuhang DAI
     position: Student Assistant
     time: 2024.11 - Present
     align: left
     image: daiyuhang.jpg
     email: 22097845d@connect.polyu.hk
-    address: >
-        Dept. of Computing<br />
-        The Polytechnic University of Hong Kong
 ---
 
 <!-- # Student Assistants
