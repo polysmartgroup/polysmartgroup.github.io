@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AI Coffee Machine
-description: AI Coffee Machine
+description: Smart Space, Research Centre on Data Sciences & Artificial Intelligence (RC-DSAI), P504, The Hong Kong Polytechnic University
 img: assets/img/coffee_robot.jpg
 importance: 1
 ---
