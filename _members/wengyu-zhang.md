@@ -1,8 +1,8 @@
 ---
 layout: about
 inline: false
-group: Student Assistants
-group_rank: 4
+group: PhD Students
+group_rank: 3
 
 title: Wengyu ZHANG
 description: 
@@ -13,8 +13,8 @@ teaser:
 
 profile:
     name: Wengyu ZHANG
-    position: Student Assistant
-    time: 2023.5 - Present
+    position: PhD Student
+    time: 2025.9 - Present<br />2023.5 - 2025.5 (Student Assistants)
     align: left
     image: wengyu-zhang.jpeg
     email: wengyu.zhang@connect.polyu.hk

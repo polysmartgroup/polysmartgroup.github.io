@@ -1,23 +1,23 @@
 ---
 layout: about
 inline: false
-group: Alumni
-group_rank: 6
+group: Student Assistants
+group_rank: 4
 
-title: Haoming YUAN
+title: Yuhang DAI
 description: 
-lastname: haoming
-publications: 'author^=*HaomingYUAN'
+lastname: yuhang
+publications: 'author^=*YuhangDAI'
 
 teaser: 
 
 profile:
-    name: Haoming YUAN
+    name: Youkang Wang
     position: Student Assistant
-    time: 2024.9 - 2025.4
+    time: 2025.2 - Present
     align: left
-    image: yuanhaoming.jpg
-    email: 23099168d@connect.polyu.hk
+    image: temp.jpeg
+    email: 22097007d@connect.polyu.hk
 ---
 
 <!-- # Student Assistants
