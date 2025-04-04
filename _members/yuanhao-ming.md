@@ -12,7 +12,7 @@ publications: 'author^=*HaomingYUAN'
 teaser: 
 
 profile:
-    name: Haoming YUAN
+    name: Mr. Haoming YUAN
     position: Student Assistant
     time: 2024.9 - 2025.4
     align: left

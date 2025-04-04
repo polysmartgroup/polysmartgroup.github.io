@@ -12,7 +12,7 @@ publications: 'author^=*WengyuZHANG'
 teaser: 
 
 profile:
-    name: Rubing CHEN
+    name: Ms. Rubing CHEN
     position: Student Assistant
     time: 2023.5 - Present
     align: left

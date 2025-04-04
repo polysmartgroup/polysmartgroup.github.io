@@ -12,7 +12,7 @@ publications: 'author^=*TianyiZENG'
 teaser: 
 
 profile:
-    name: Tianyi ZENG
+    name: Mr. Tianyi ZENG
     position: Student Assistant
     time: 2025.3 - Present
     align: left

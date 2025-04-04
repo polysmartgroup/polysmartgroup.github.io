@@ -12,7 +12,7 @@ publications: 'author^=*WentaoHU'
 teaser: 
 
 profile:
-    name: Wentao HU
+    name: Mr. Wentao HU
     position: PhD Student
     time: 2024.9 - Present<br />2024.5 - 2024.9 (Research Assistant)
     image: wentao-hu.jpeg

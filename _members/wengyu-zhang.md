@@ -12,7 +12,7 @@ publications: 'author^=*WengyuZHANG'
 teaser: 
 
 profile:
-    name: Wengyu ZHANG
+    name: Mr. Wengyu ZHANG
     position: PhD Student
     time: 2025.9 - Present<br />2023.5 - 2025.5 (Student Assistant)
     align: left

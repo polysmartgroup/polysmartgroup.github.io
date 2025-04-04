@@ -12,7 +12,7 @@ publications: 'author^=*WANGYoukang'
 teaser: 
 
 profile:
-    name: Youkang WANG
+    name: Mr. Youkang WANG
     position: Student Assistant
     time: 2025.2 - Present
     align: left

@@ -12,7 +12,7 @@ publications: 'author^=*JiangshanHE'
 teaser: 
 
 profile:
-    name: Jiangshan HE
+    name: Mr. Jiangshan HE
     position: Research Assistant
     time: 2024.9 - 2025.3
     align: left

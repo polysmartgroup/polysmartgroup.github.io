@@ -12,7 +12,7 @@ publications: 'author^=*haoqianDU'
 teaser: 
 
 profile:
-    name: Haoqian DU
+    name: Mr. Haoqian DU
     position: Student Assistant
     time: 2024.9 - Present
     align: left

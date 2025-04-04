@@ -12,7 +12,7 @@ publications: 'author^=*YuhangDAI'
 teaser: 
 
 profile:
-    name: Yuhang DAI
+    name: Mr. Yuhang DAI
     position: Student Assistant
     time: 2024.11 - Present
     align: left

@@ -12,7 +12,7 @@ publications: 'author^=*TianyiZhang'
 teaser: 
 
 profile:
-    name: Tianyi ZHANG
+    name: Mr. Tianyi ZHANG
     position: Student Assistant
     time: 2022.7 - 2024.11
     image: tianyi-zhang.jpg

@@ -12,7 +12,7 @@ publications: 'author^=*TinYehHUANG'
 teaser: 
 
 profile:
-    name: Tin Yeh HUANG
+    name: Mr. Tin Yeh HUANG
     position: Research Intern
     time: 2024.9 - Present
     align: left

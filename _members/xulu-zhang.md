@@ -11,7 +11,7 @@ publications: 'author^=*XuluZHANG'
 
 teaser: 
 profile:
-    name: Xulu ZHANG
+    name: Mr. Xulu ZHANG
     position: PhD Candidate
     time: 2022.9 - Present
     align: left

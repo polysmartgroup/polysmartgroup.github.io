@@ -12,7 +12,7 @@ publications: 'author^=*HongheDING'
 teaser: 
 
 profile:
-    name: Honghe DING
+    name: Mr. Honghe DING
     position: Student Assistant
     time: 2024.9 - Present
     align: left

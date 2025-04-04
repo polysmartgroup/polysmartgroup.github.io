@@ -12,7 +12,7 @@ publications: 'author^=*YiyangJIANG'
 teaser: 
 
 profile:
-    name: Yiyang JIANG
+    name: Mr. Yiyang JIANG
     position: PhD Student
     time: 2025.9 - Present<br />2024.6 - 2025.6 (Research Assistant) <br />2023.5 - 2024.5 (Student Assistant)
     align: left
