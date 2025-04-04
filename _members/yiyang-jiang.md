@@ -1,8 +1,8 @@
 ---
 layout: about
 inline: false
-group: Research Staffs
-group_rank: 2
+group: PhD Students
+group_rank: 3
 
 title: Yiyang JIANG
 description: 
@@ -13,8 +13,8 @@ teaser:
 
 profile:
     name: Yiyang JIANG
-    position: Research Assistant
-    time: 2023.5 - Present
+    position: PhD Student
+    time: 2025.9 - Present<br />2024.6 - 2025.6 (Research Assistant) <br />2023.5 - 2024.5 (Student Assistant)
     align: left
     image: yiyang-jiang.jpeg
     email: yiyang.jiang@polyu.edu.hk

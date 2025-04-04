@@ -14,7 +14,7 @@ teaser:
 profile:
     name: Wengyu ZHANG
     position: PhD Student
-    time: 2025.9 - Present<br />2023.5 - 2025.5 (Student Assistants)
+    time: 2025.9 - Present<br />2023.5 - 2025.5 (Student Assistant)
     align: left
     image: wengyu-zhang.jpeg
     email: wengyu.zhang@connect.polyu.hk
