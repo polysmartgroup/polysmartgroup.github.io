@@ -4,20 +4,20 @@ inline: false
 group: Student Assistants
 group_rank: 4
 
-title: Youkang WANG
+title: Tianyi ZENG
 description: 
-lastname: youkang
-publications: 'author^=*WANGYoukang'
+lastname: tianyi
+publications: 'author^=*TianyiZENG'
 
 teaser: 
 
 profile:
-    name: Youkang WANG
+    name: Tianyi ZENG
     position: Student Assistant
-    time: 2025.2 - Present
+    time: 2025.3 - Present
     align: left
-    image: temp.jpeg
-    email: 22097007d@connect.polyu.hk
+    image: zengtianyi.jpg
+    email: tianyi.zeng@connect.polyu.hk
 ---
 
 <!-- # Student Assistants
