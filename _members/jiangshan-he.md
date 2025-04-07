@@ -20,5 +20,5 @@ profile:
     email: jiangshan.he@polyu.edu.hk
     scholar: https://scholar.google.com/citations?user=okJwEZEAAAAJ
     website: https://thomas-s-ai-home.netlify.app
-    
+    degree: Bsc(WHU)
 ---

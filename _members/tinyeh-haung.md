@@ -14,7 +14,7 @@ teaser:
 profile:
     name: Mr. Tin Yeh HUANG
     position: Research Intern
-    time: 2024.9 - Present
+    time: 2024.11 - Present
     align: left
     image: huangtianye.jpg
     website: https://huangty5121.github.io/

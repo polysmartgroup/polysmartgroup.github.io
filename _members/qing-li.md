@@ -19,6 +19,7 @@ profile:
     email: qing-prof.li@polyu.edu.hk
     website: https://www4.comp.polyu.edu.hk/~csqli/
     scholar: https://scholar.google.com/citations?user=D1LEg-YAAAAJ
+    degree: BEng(Hunan); MSc, PhD(USC); FIEEE; FAAIA; FIET; DMCCF
     address: >
         PQ803a<br />
         Dept. of Computing<br />
