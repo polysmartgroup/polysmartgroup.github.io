@@ -61,12 +61,12 @@ nav_rank: 2
                         </p>
                     {% endif %} -->
                     {% if member.profile.interest %}
-                        <p class="card-text">
+                        <p class="card-text" style="margin-bottom: 0.3rem;">
                             <small class="test-muted"><i class="fas fa-magnifying-glass"></i> {{ member.profile.interest | replace: '<br />', ', ' }}</small>
                         </p>
                     {% endif %}
                     {% if member.profile.address %}
-                        <p class="card-text">
+                        <p class="card-text" style="margin-bottom: 0.3rem;">
                             <small class="test-muted"><i class="fas fa-thumbtack"></i> {{ member.profile.address | replace: '<br />', ', ' }}</small>
                         </p>
                     {% endif %}
