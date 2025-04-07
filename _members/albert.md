@@ -16,7 +16,7 @@ profile:
     position: Student Assistant
     time: 2025.2 - Present
     align: left
-    image: temp.jpeg
+    image: albert.jpg
     email: 22097007d@connect.polyu.hk
 ---
 
