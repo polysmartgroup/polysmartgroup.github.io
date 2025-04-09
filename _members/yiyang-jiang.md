@@ -20,7 +20,7 @@ profile:
     email: yiyang.jiang@polyu.edu.hk
     website: https://www.yyjiang.com
     scholar: https://scholar.google.com/citations?user=TvyGmeEAAAAJ
-    degree: Bsc(Polyu)
+    degree: Bsc(PolyU)
     interest: Vision-language understanding, Natural Language Processing, Large Language Models, Health Computing
     address: >
         P504<br />
