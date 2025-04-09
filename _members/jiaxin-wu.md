@@ -20,7 +20,7 @@ profile:
     email: nikki-jiaxin.wu@polyu.edu.hk
     website: https://jiaxinwu.weebly.com/
     scholar: https://scholar.google.com.hk/citations?user=PRjnSUwAAAAJ
-    degree: PhD(CityU)
+    degree: Bsc, Msc(SZU); PhD(CityU)
     address: >
         P504<br />
         Dept. of Computing<br />
