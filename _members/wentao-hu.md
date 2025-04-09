@@ -18,7 +18,7 @@ profile:
     image: wentao-hu.jpeg
     email: 24081066r@connect.polyu.hk
     scholar: https://scholar.google.com/citations?user=e-Das3gAAAAJ
-    degree: Bsc(SDU); Msc(SYSU)
+    degree: BEng(SDU); MEng(SYSU)
     address: >
         P504<br />
         Dept. of Computing<br />

@@ -20,7 +20,7 @@ profile:
     email: wengyu.zhang@connect.polyu.hk
     scholar: https://scholar.google.com/citations?user=zgV2AIAAAAAJ
     website: https://wengyuzhang.com
-    degree: Bsc(Polyu)
+    degree: Bsc(PolyU)
     interest: Large Language Model, Image Synthesis, Health Computing, Graph Learning
     address: >
         P504<br />

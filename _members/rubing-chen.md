@@ -22,7 +22,7 @@ profile:
         P504<br />
         Dept. of Computing<br />
         The Polytechnic University of Hong Kong
-    degree: Bsc(Polyu)
+    degree: Bsc(PolyU)
 ---
 
 <!-- # Student Assistants
