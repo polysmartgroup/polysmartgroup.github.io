@@ -1,20 +1,20 @@
 ---
 layout: about
 inline: false
-group: Student Assistants
-group_rank: 4
+group: PhD Students
+group_rank: 3
 
 title: Rubing Chen
 description: 
 lastname: rubing
-publications: 'author^=*WengyuZHANG'
+publications: 'author^=*RubingCHEN'
 
 teaser: 
 
 profile:
     name: Ms. Rubing CHEN
-    position: Student Assistant
-    time: 2023.5 - Present
+    position: PhD Student
+    time: 2025.9 - Present<br />2023.5 - 2025.5 (Student Assistant)
     align: left
     image: rubing-chen.jpg
     email: ru-bing.chen@connect.polyu.hk
