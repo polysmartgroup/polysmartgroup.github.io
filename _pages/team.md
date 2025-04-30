@@ -26,7 +26,7 @@ nav_rank: 2
                     {% if member.profile.degree %}<h6 class="card-subtitle mb-2 text-muted"><em>{{ member.profile.degree }}</em></h6>{% endif %}
                     {% if member.profile.position %}
                     <h6 class="card-subtitle mb-2 text-muted">
-                        {{ member.profile.position }}{% if member.profile.award %}; <a href="https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/" style="color:red;font-style:italic;font-weight: 450;">{{ member.profile.award }}</a>
+                        {{ member.profile.position }}{% if member.profile.award %}; <a href="https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/" style="color:red;font-weight:450;">{{ member.profile.award }}</a>
                         {% endif %}
                     </h6>
                     {% endif %}
