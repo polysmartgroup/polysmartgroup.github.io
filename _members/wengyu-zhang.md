@@ -15,7 +15,7 @@ profile:
     name: Mr. Wengyu ZHANG
     position: PhD Student
     award: HKPFS
-    time: 2025.9 - Present<br />2023.5 - 2025.5 (Student Assistant)
+    time: 2025.9 - Present<br />2023.5 - 2025.6 (Student Assistant)
     align: left
     image: wengyu-zhang.jpeg
     email: wengyu.zhang@connect.polyu.hk

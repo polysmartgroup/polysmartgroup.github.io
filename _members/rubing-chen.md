@@ -14,7 +14,7 @@ teaser:
 profile:
     name: Ms. Rubing CHEN
     position: PhD Student
-    time: 2025.9 - Present<br />2023.5 - 2025.5 (Student Assistant)
+    time: 2025.9 - Present<br />2023.5 - 2025.6 (Student Assistant)
     align: left
     image: rubing-chen.jpg
     email: ru-bing.chen@connect.polyu.hk
