@@ -20,7 +20,7 @@ profile:
     email: jinhaoshen00@gmail.com
     scholar: https://scholar.google.com/citations?user=tBMK99AAAAAJ&hl=zh-CN
     website: https://jinhaoshen.github.io/
-    degree: B.Eng, M.Eng(NWPU)
+    degree: BEng, MEng(NWPU)
     address: >
         P504<br />
         Dept. of Computing<br />
