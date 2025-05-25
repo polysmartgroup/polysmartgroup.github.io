@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: The Hong Kong Polytechnic University
+subtitle: 
 
 profile:
   align: right
