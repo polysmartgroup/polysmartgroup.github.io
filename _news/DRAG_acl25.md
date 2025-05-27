@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Our work [Removal of Hallucination on Hallucination: Debate-Augmented RAG](https://github.com/Huenao/Debate-Augmented-RAG) is accepted by ACL 2025 Main.
+Our work [Removal of Hallucination on Hallucination: Debate-Augmented RAG](https://arxiv.org/pdf/2505.18581) is accepted by ACL 2025 Main.
