@@ -1,8 +1,8 @@
 ---
 layout: about
 inline: false
-group: Intern
-group_rank: 5
+group: Alumni
+group_rank: 6
 
 title: Tin Yeh HUANG
 description: 
@@ -14,7 +14,7 @@ teaser:
 profile:
     name: Mr. Tin Yeh HUANG
     position: Research Intern
-    time: 2024.11 - Present
+    time: 2024.11 - 2024.12
     align: left
     image: huangtianye.jpg
     website: https://huangty5121.github.io/
