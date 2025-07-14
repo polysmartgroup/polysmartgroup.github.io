@@ -28,7 +28,7 @@ importance: 1
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/img/Coffee_Demo_1_can_eng_2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include video.liquid path="assets/img/Coffee_Demo_1_can_eng_2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
         <div class="caption">
             Order coffee through human natural language and virtual assistant.
         </div>
@@ -40,7 +40,7 @@ importance: 1
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/img/Coffee_Demo_2_can_eng_1.mp4" class="img-fluid rounded z-depth-1 w-80" controls=true autoplay=true %}
+        {% include video.liquid path="assets/img/Coffee_Demo_2_can_eng_1.mp4" class="img-fluid rounded z-depth-1 w-80" controls=true autoplay=false %}
         <div class="caption">
             My mom tells me to drink more water instead of coffee. She thinks coffee is bad for health. Is she right?
         </div>
@@ -50,13 +50,13 @@ importance: 1
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/img/Coffee_Demo_2_can_eng_2.mp4" class="img-fluid rounded z-depth-1 w-40" controls=true autoplay=true %}
+        {% include video.liquid path="assets/img/Coffee_Demo_2_can_eng_2.mp4" class="img-fluid rounded z-depth-1 w-40" controls=true autoplay=false %}
         <div class="caption">
             I’ve been quite stressed recently. What coffee would you recommend for me?
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/img/Coffee_Demo_2_can_eng_4.mp4" class="img-fluid rounded z-depth-1 w-40" controls=true autoplay=true %}
+        {% include video.liquid path="assets/img/Coffee_Demo_2_can_eng_4.mp4" class="img-fluid rounded z-depth-1 w-40" controls=true autoplay=false %}
         <div class="caption">
             I have a friend, he can hardly sleep at night, and he is very energetic. Would you recommend him a cup of coffee?
         </div>
@@ -69,13 +69,13 @@ importance: 1
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/img/Coffee_Demo_2_can_eng_3.mp4" class="img-fluid rounded z-depth-1 w-40" controls=true autoplay=true %}
+        {% include video.liquid path="assets/img/Coffee_Demo_2_can_eng_3.mp4" class="img-fluid rounded z-depth-1 w-40" controls=true autoplay=false %}
         <div class="caption">
             What is your name?
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/img/Coffee_Demo_3_can_eng_2.mp4" class="img-fluid rounded z-depth-1 w-40" controls=true autoplay=true %}
+        {% include video.liquid path="assets/img/Coffee_Demo_3_can_eng_2.mp4" class="img-fluid rounded z-depth-1 w-40" controls=true autoplay=false %}
         <div class="caption">
             Do you have a boyfriend?
         </div>
@@ -84,13 +84,13 @@ importance: 1
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/img/Coffee_Demo_6_can_eng.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include video.liquid path="assets/img/Coffee_Demo_6_can_eng.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
         <div class="caption">
             What a boring day...
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/img/Coffee_Demo_4_can_eng_2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include video.liquid path="assets/img/Coffee_Demo_4_can_eng_2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
         <div class="caption">
             Why did the professor bring a ladder to class?
         </div>
