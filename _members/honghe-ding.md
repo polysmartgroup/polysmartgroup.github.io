@@ -1,8 +1,8 @@
 ---
 layout: about
 inline: false
-group: Student Assistants
-group_rank: 4
+group: Alumni
+group_rank: 6
 
 title: Honghe DING
 description: 
@@ -14,7 +14,7 @@ teaser:
 profile:
     name: Mr. Honghe DING
     position: Student Assistant
-    time: 2024.9 - Present
+    time: 2024.9 - 2025.6
     align: left
     image: dinghonghe.jpg
     email: dinghonghe0307@gmail.com

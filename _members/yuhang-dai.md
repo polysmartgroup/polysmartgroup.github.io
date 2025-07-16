@@ -1,8 +1,8 @@
 ---
 layout: about
 inline: false
-group: Student Assistants
-group_rank: 4
+group: Alumni
+group_rank: 6
 
 title: Yuhang DAI
 description: 
@@ -14,7 +14,7 @@ teaser:
 profile:
     name: Mr. Yuhang DAI
     position: Student Assistant
-    time: 2024.11 - Present
+    time: 2024.11 - 2025.6
     align: left
     image: daiyuhang.jpg
     email: 22097845d@connect.polyu.hk
