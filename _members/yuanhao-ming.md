@@ -14,7 +14,7 @@ teaser:
 profile:
     name: Mr. Haoming YUAN
     position: Student Assistant
-    time: 2024.9 - 2025.4
+    time: 2024.9 - 2024.12
     align: left
     image: yuanhaoming.jpg
     email: 23099168d@connect.polyu.hk
