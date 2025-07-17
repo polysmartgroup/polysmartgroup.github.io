@@ -14,7 +14,7 @@ teaser:
 profile:
     name: Mr. Chenang JIANG
     position: Research Intern
-    time: 2025.07 - 2025.08
+    time: 2025.7 - 2025.8
     align: left
     image: chenang-jiang.jpg
     website: https://github.com/Runningbean-jca
