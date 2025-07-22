@@ -9,7 +9,6 @@ importance: 1
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        <!-- {% include figure.liquid loading="eager" path="assets/img/coffee_machine_2.jpg" class="img-fluid rounded z-depth-1 w-60" zoomable=true %} -->
         {% include figure.liquid loading="eager" path="assets/img/Coffee_Robot_Demo_GIF_3.gif" class="img-fluid rounded z-depth-1 w-60" zoomable=true %}
         <div class="caption">
             AI Coffee Machine in the Smart Space, Research Centre on Data Sciences & Artificial Intelligence (RC-DSAI), P504, The Hong Kong Polytechnic University
