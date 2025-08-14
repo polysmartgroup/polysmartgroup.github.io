@@ -299,8 +299,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Li, Wei, Wu, Chen, Zeng, Zhang, Hu, Zhang, Jiang, Shen]
-  first_name: [Qing, Xiaoyong, Xiao-Yong, Jiaxin, Rubing, Tianyi, Wengyu, Wentao, Xulu, Yiyang, Jinhao, Chen Jason]
+  last_name: [Li, Wei, Wu, Chen, Zeng, Zhang, Hu, Zhang, Jiang, Shen, Zheng]
+  first_name: [Qing, Xiaoyong, Xiao-Yong, Jiaxin, Rubing, Tianyi, Wengyu, Wentao, Xulu, Yiyang, Jinhao, Chen Jason, Changmeng]
 
   style: apa
   locale: en
