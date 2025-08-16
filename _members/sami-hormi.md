@@ -13,8 +13,7 @@ teaser:
 
 profile:
     name: Mr. Sami HORMI
-    position: Student Assistant
-    time: 2022
+    position: Research Assistant
+    time: 2022-2023
     image: sami-hormi.jpg
-    degree: Bsc(PolyU)
 ---
