@@ -14,6 +14,6 @@ teaser:
 profile:
     name: Mr. Sami HORMI
     position: Research Assistant
-    time: 2022-2023
+    time: 2022 - 2023
     image: sami-hormi.jpg
 ---
