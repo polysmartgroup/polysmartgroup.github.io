@@ -6,7 +6,7 @@ nav: true
 nav_order: 7
 ---
 
-# Student Assistant Recruitment of PolySmart Group 2025
+## Student Assistant Recruitment of PolySmart Group 2025
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -21,12 +21,12 @@ nav_order: 7
 </div>
 
 
-## About PolySmart Group
+### 1. About PolySmart Group
 
 **PolySmart Group** is a research-oriented student group **dedicated to cultivating outstanding undergraduates in research**.  
 The group is led by **Prof. Li Qing**, **Prof. Wei Xiaoyong**, **Prof. Zhang Chen**, and **Dr. Changmeng Zheng**, focusing on guiding undergraduates step by step from classroom learning, to research practice, to top-tier academic achievements.
 
-##  Who We Are Recruiting
+###  2. Who We Are Recruiting
 
 - Undergraduate students graduating in **2027 or 2028**
     
@@ -35,7 +35,7 @@ The group is led by **Prof. Li Qing**, **Prof. Wei Xiaoyong**, **Prof. Zhang Che
 - Students with background knowledge in **AI / ML** are also welcome to join directly
     
 
-##  Recommended Path
+### 3. Recommended Path
 
 We provide a **structured pathway** for students:
 
@@ -75,7 +75,7 @@ We provide a **structured pathway** for students:
     - **Other Academic Pursuits** (e.g., international research opportunities)
     
 
-## Current Research & Projects
+### 4. Current Research & Projects
 
 Our student assistants are currently working on:
 
@@ -98,7 +98,7 @@ Our student assistants are currently working on:
 
 As a student assistant, you will work on projects that integrate **Computer Vision, NLP, Robotics, AIoT, and more**.
 
-## Requirements
+### 5. Requirements
 
 - Undergraduate students (Year 2-3), expected graduation: **2027-2028**
     
@@ -107,7 +107,7 @@ As a student assistant, you will work on projects that integrate **Computer Visi
 - Experience with **front-end (JavaScript, HTML, CSS)** or **back-end (Node.js, Django, Flask)** is a plus
     
 
-##  Achievements of PolySmart Students
+### 6.  Achievements of PolySmart Students
 
 Our pathway is **verified and validated** by real student outcomes.
 
@@ -126,7 +126,7 @@ Students who have gone through the PolySmart pathway have already achieved remar
 
 
 
-## Work Hard & Play Hard
+### 7. Work Hard & Play Hard
 
 At PolySmart, we believe that research is not only about **hard work and challenges**, but also about enjoying the journey.  
 You will be prepared to **take on challenges** in research, and at the same time, be prepared to **have fun** with the group.
@@ -146,7 +146,7 @@ You will be prepared to **take on challenges** in research, and at the same time
 </div>
 
 
-## Our Group Vibe
+### 8. Our Group Vibe
 
 At PolySmart, we value a collaborative and supportive atmosphere. Professors in our group are not only inventors and leaders, but also **research partners** who work closely with students.
 
@@ -161,7 +161,7 @@ We consider all students as **true collaborators**, not just assistants. You wil
 
 We believe that great research comes from **working together, learning together, and growing together**.
 
-## Application
+### 9. Application
 
 If you are interested, please contact **Prof. Xiaoyong Wei** at **cs007.wei@polyu.edu.hk**.
 
