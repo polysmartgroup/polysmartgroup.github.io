@@ -24,7 +24,7 @@ nav_order: 7
 ### 1. About PolySmart Group
 
 **PolySmart Group** is a research-oriented student group **dedicated to cultivating outstanding undergraduates in research**.  
-The group is led by **Prof. Li Qing**, **Prof. Wei Xiaoyong**, **Prof. Zhang Chen**, and **Dr. Changmeng Zheng**, focusing on guiding undergraduates step by step from classroom learning, to research practice, to top-tier academic achievements.
+The group is led by [**Prof. Li Qing**](https://www.polyu.edu.hk/comp/people/academic-staff/prof-li-qing/), [**Prof. Wei Xiaoyong**](https://www.polyu.edu.hk/comp/people/emeritus-honorary-adjunct-and-visiting/wei-xiaoyong---visiting/), [**Prof. Zhang Chen**](https://www.zhangchen.info/), and [**Dr. Changmeng Zheng**](https://www.polyu.edu.hk/comp/people/academic-staff/dr-zheng-changmeng/), focusing on guiding undergraduates step by step from classroom learning, to research practice, to top-tier academic achievements.
 
 ###  2. Who We Are Recruiting
 
@@ -163,7 +163,7 @@ We believe that great research comes from **working together, learning together,
 
 ### 9. Application
 
-If you are interested, please contact **Prof. Xiaoyong Wei** at **cs007.wei@polyu.edu.hk**.
+If you are interested, please contact **Prof. Xiaoyong Wei** at [**cs007.wei@polyu.edu.hk**](mailto:cs007.wei@polyu.edu.hk).
 
 - Please attach your latest **CV**
     
