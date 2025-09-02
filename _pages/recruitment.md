@@ -24,7 +24,7 @@ nav_order: 7
 ### 1. About PolySmart Group
 
 **PolySmart Group** is a research-oriented student group **dedicated to cultivating outstanding undergraduates in research**.  
-The group is led by [**Prof. Li Qing**](https://www.polyu.edu.hk/comp/people/academic-staff/prof-li-qing/), [**Prof. Wei Xiaoyong**](https://www.polyu.edu.hk/comp/people/emeritus-honorary-adjunct-and-visiting/wei-xiaoyong---visiting/), [**Prof. Zhang Chen**](https://www.zhangchen.info/), and [**Dr. Changmeng Zheng**](https://www.polyu.edu.hk/comp/people/academic-staff/dr-zheng-changmeng/), focusing on guiding undergraduates step by step from classroom learning, to research practice, to top-tier academic achievements.
+The group is led by [Prof. Li Qing](https://www.polyu.edu.hk/comp/people/academic-staff/prof-li-qing/), [Prof. Wei Xiaoyong](https://www.polyu.edu.hk/comp/people/emeritus-honorary-adjunct-and-visiting/wei-xiaoyong---visiting/), [Prof. Zhang Chen](https://www.zhangchen.info/), and [Dr. Changmeng Zheng](https://www.polyu.edu.hk/comp/people/academic-staff/dr-zheng-changmeng/), focusing on guiding undergraduates step by step from classroom learning, to research practice, to top-tier academic achievements.
 
 ###  2. Who We Are Recruiting
 
@@ -79,21 +79,21 @@ We provide a **structured pathway** for students:
 
 Our student assistants are currently working on:
 
-- **Domain-Specific Large Language Models (LLMs)**
+- Domain-Specific Large Language Models (LLMs)
     
-- **AI Agents**
+- AI Agents
     
-- **AI for Science**
+- AI for Science
     
-- **AI for Database**
+- AI for Database
     
-- **Brain-Inspired Neural Science**
+- Brain-Inspired Neural Science
     
-- [**AI Coffee Robot System**](https://polysmartgroup.github.io/projects/ai_coffee_machine/)
+- [AI Coffee Robot System](https://polysmartgroup.github.io/projects/ai_coffee_machine/)
     
-- **Digital and Virtual Humans**
+- Digital and Virtual Humans
     
-- **Sign Language Recognition and Translation**
+- Sign Language Recognition and Translation
     
 
 As a student assistant, you will work on projects that integrate **Computer Vision, NLP, Robotics, AIoT, and more**.
@@ -115,9 +115,9 @@ Students who have gone through the PolySmart pathway have already achieved remar
 
 - The **first cohort of 3 student assistants** enrolled in 2023
     
-    - **2 students** awarded the [**Hong Kong PhD Fellowship Scheme (HKPFS)**](https://www.polyu.edu.hk/gs/prospective-students/hkpfs/)
+    - **2 students** awarded the [Hong Kong PhD Fellowship Scheme (HKPFS)](https://www.polyu.edu.hk/gs/prospective-students/hkpfs/)
         
-    - **1 student** awarded the [**PolyU Research Postgraduate Scholarship (PRPgS)**](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/)
+    - **1 student** awarded the [PolyU Research Postgraduate Scholarship (PRPgS)](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/)
         
 
  On average, each student published **2 papers** in top-tier venues during their undergraduate journey.
@@ -163,11 +163,11 @@ We believe that great research comes from **working together, learning together,
 
 ### 9. Application
 
-If you are interested, please contact **Prof. Xiaoyong Wei** at [**cs007.wei@polyu.edu.hk**](mailto:cs007.wei@polyu.edu.hk).
+If you are interested, please contact **Prof. Xiaoyong Wei** at [cs007.wei@polyu.edu.hk](mailto:cs007.wei@polyu.edu.hk).
 
 - Please attach your latest **CV**
     
 - Use email subject:  
-    **“Application for PolySmart Group Student Assistant 2025 - [Your Name]”**
+    **Application for PolySmart Group Student Assistant 2025 - [Your Name]**
     
 - Kindly specify your **current year of study** and **expected graduation date**
