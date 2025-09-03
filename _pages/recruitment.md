@@ -87,7 +87,7 @@ Our student assistants are currently working on:
     
 - AI for Database
     
-- Brain-Inspired Neural Science
+- Brain-Inspired Neuroscience
     
 - [AI Coffee Robot System](https://polysmartgroup.github.io/projects/ai_coffee_machine/)
     
