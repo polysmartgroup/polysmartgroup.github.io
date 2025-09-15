@@ -24,7 +24,7 @@ profile:
     degree: Bsc(PolyU)
     interest: Large Language Model, Image Synthesis, Health Computing, Graph Learning
     address: >
-        P504<br />
+        P504-13<br />
         Dept. of Computing<br />
         The Polytechnic University of Hong Kong
 ---
