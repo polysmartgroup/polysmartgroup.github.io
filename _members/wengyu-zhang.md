@@ -22,7 +22,7 @@ profile:
     scholar: https://scholar.google.com/citations?user=zgV2AIAAAAAJ
     website: https://wengyuzhang.com
     degree: Bsc(PolyU)
-    interest: Large Language Model, Image Synthesis, Health Computing, Graph Learning
+    interest: Computer Vision, Large Language Models, AI for Science, Brain-Inspired Neuroscience
     address: >
         P504-13<br />
         Dept. of Computing<br />
