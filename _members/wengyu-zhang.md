@@ -24,7 +24,7 @@ profile:
     degree: Bsc(PolyU)
     interest: Computer Vision, Large Language Models, AI for Science, Brain-Inspired Neuroscience
     address: >
-        P504-13<br />
+        P504<br />
         Dept. of Computing<br />
         The Polytechnic University of Hong Kong
 ---
