@@ -24,7 +24,7 @@ profile:
     degree: Bsc(PolyU)
     interest: Vision-language understanding, Natural Language Processing, Large Language Models, Health Computing
     address: >
-        P504-14<br />
+        P504<br />
         Dept. of Computing<br />
         The Polytechnic University of Hong Kong
 ---
