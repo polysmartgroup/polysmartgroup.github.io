@@ -6,7 +6,7 @@ group_rank: 2
 
 title: Dr. Jiaxin WU
 description: 
-lastname: dr. Jiaxin
+lastname: Dr. Jiaxin
 publications: 'author^=*JiaxinWU'
 
 teaser: 
