@@ -16,6 +16,6 @@ profile:
     position: Student Assistant
     time: 2024.9 - Present
     align: left
-    image: duhaoqian.jpg
+    image: haoqian-v2.jpg
     email: duhaoqian879@gamil.com
 ---
