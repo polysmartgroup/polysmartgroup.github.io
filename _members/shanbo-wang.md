@@ -16,6 +16,6 @@ profile:
     position: Student Assistant
     time: 2025.9 - Present
     align: left
-    image: temp.jpeg
-    email: 
+    image: shanbo.jpg
+    email: 24113057d@connect.polyu.hk
 ---
