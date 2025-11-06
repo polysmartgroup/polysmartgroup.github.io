@@ -4,15 +4,15 @@ inline: false
 group: PhD Students
 group_rank: 3
 
-title: Wentao HU
+title: HU Wentao
 description: 
-lastname: wentao
+lastname: Hu
 publications: 'author^=*WentaoHU'
 
 teaser: 
 
 profile:
-    name: Mr. Wentao HU
+    name: Mr. HU Wentao
     position: PhD Student
     time: 2024.9 - Present<br />2024.5 - 2024.9 (Research Assistant)
     image: wentao-hu.jpeg

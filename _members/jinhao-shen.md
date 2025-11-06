@@ -4,15 +4,15 @@ inline: false
 group: PhD Students
 group_rank: 3
 
-title: Jinhao SHEN
+title: SHEN Jinhao
 description: 
-lastname: jinhao
+lastname: Shen
 publications: 'author^=*JinhaoSHEN'
 
 teaser: 
 
 profile:
-    name: Mr. Jinhao SHEN
+    name: Mr. SHEN Jinhao
     position: PhD Student
     time: 2025.9 - Present<br />2025.5 - 2025.8 (Research Assistant)
     align: left

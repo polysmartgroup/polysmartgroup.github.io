@@ -4,7 +4,7 @@ inline: false
 group: Director
 group_rank: 1
 
-title: Prof. Xiaoyong WEI
+title: Prof. WEI Xiaoyong
 description: 
 lastname: xiaoyong
 publications: 'author^=*Weixiaoyong'
@@ -12,7 +12,7 @@ publications: 'author^=*Weixiaoyong'
 teaser: 
 
 profile:
-    name: Prof. Xiaoyong WEI
+    name: Prof. WEI Xiaoyong
     position: Visiting Professor, Department of Computing, The Hong Kong Polytechnic University<br />Professor and Head, Department of Computer Science, Sichuan University, China
     align: right
     image: xiaoyong-wei.jpeg

@@ -4,15 +4,15 @@ inline: false
 group: Student Assistants
 group_rank: 4
 
-title: Yiming CHEN
+title: CHEN Yiming
 description: 
-lastname: yiming
+lastname: CHEN
 publications: 'author^=*yimingCHEN'
 
 teaser: 
 
 profile:
-    name: Mr. Yiming CHEN
+    name: Mr. CHEN Yiming
     position: Student Assistant
     time: 2025.9 - Present
     align: left

@@ -4,15 +4,15 @@ inline: false
 group: Alumni
 group_rank: 6
 
-title: Chenang JIANG
+title: JIANG Chenang
 description: 
-lastname: chenang
+lastname: JIANG
 publications: 'author^=*ChenangJIANG'
 
 teaser: 
 
 profile:
-    name: Mr. Chenang JIANG
+    name: Mr. JIANG Chenang
     position: Research Intern
     time: 2025.7 - 2025.10
     align: left

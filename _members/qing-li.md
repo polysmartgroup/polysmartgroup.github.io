@@ -4,7 +4,7 @@ inline: false
 group: Director
 group_rank: 1
 
-title: Prof. Qing LI
+title: Prof. LI Qing
 description: 
 lastname: qing
 publications: 'author^=*Liqing'
@@ -12,7 +12,7 @@ publications: 'author^=*Liqing'
 teaser: 
 
 profile:
-    name: Prof. Qing LI
+    name: Prof. LI Qing
     position: Chair Professor of Data Science and Head, Department of Computing, The Hong Kong Polytechnic University
     align: right
     image: qing-li.jpg

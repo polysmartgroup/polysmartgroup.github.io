@@ -4,15 +4,15 @@ inline: false
 group: Student Assistants
 group_rank: 4
 
-title: Jingyuan CAO
+title: CAO Jingyuan
 description: 
-lastname: jingyuan
+lastname: CAO
 publications: 'author^=*jingyuanCAO'
 
 teaser: 
 
 profile:
-    name: Mr. Jingyuan CAO
+    name: Mr. CAO Jingyuan
     position: Student Assistant
     time: 2025.9 - Present
     align: left

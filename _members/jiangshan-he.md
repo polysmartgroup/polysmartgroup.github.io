@@ -4,15 +4,15 @@ inline: false
 group: Alumni
 group_rank: 6
 
-title: Jiangshan HE
+title: HE Jiangshan
 description: 
-lastname: jiangshan
+lastname: He
 publications: 'author^=*JiangshanHE'
 
 teaser: 
 
 profile:
-    name: Mr. Jiangshan HE
+    name: Mr. HE Jiangshan
     position: Research Assistant
     time: 2024.9 - 2025.3
     align: left

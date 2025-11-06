@@ -4,15 +4,15 @@ inline: false
 group: PhD Students
 group_rank: 3
 
-title: Wengyu ZHANG
+title: ZHANG Wengyu
 description: 
-lastname: wengyu
+lastname: ZHANG
 publications: 'author^=*WengyuZHANG'
 
 teaser: 
 
 profile:
-    name: Mr. Wengyu ZHANG
+    name: Mr. ZHANG Wengyu
     position: PhD Student
     award: HKPFS
     time: 2025.9 - Present<br />2023.5 - 2025.6 (Student Assistant)

@@ -4,14 +4,14 @@ inline: false
 group: PhD Students
 group_rank: 3
 
-title: Xulu ZHANG
+title: ZHANG Xulu
 description: 
-lastname: xulu
+lastname: ZHANG
 publications: 'author^=*XuluZHANG'
 
 teaser: 
 profile:
-    name: Mr. Xulu ZHANG
+    name: Mr. ZHANG Xulu
     position: PhD Candidate
     time: 2022.9 - Present
     align: left

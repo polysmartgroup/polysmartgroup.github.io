@@ -4,15 +4,15 @@ inline: false
 group: Student Assistants
 group_rank: 4
 
-title: Tianyi ZENG
+title: ZENG Tianyi
 description: 
-lastname: tianyi
+lastname: ZENG
 publications: 'author^=*TianyiZENG'
 
 teaser: 
 
 profile:
-    name: Mr. Tianyi ZENG
+    name: Mr. ZENG Tianyi
     position: Student Assistant
     time: 2025.3 - Present
     align: left

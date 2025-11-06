@@ -4,15 +4,15 @@ inline: false
 group: Alumni
 group_rank: 6
 
-title: Tianyi ZHANG
+title: ZHANG Tianyi
 description: 
-lastname: tianyi
+lastname: ZHANG
 publications: 'author^=*TianyiZhang'
 
 teaser: 
 
 profile:
-    name: Mr. Tianyi ZHANG
+    name: Mr. ZHANG Tianyi
     position: Student Assistant
     time: 2022.7 - 2024.11
     image: tianyi-zhang.jpg

@@ -4,15 +4,15 @@ inline: false
 group: Alumni
 group_rank: 6
 
-title: Yuhang DAI
+title: DAI Yuhang
 description: 
-lastname: yuhang
+lastname: Dai
 publications: 'author^=*YuhangDAI'
 
 teaser: 
 
 profile:
-    name: Mr. Yuhang DAI
+    name: Mr. DAI Yuhang
     position: Student Assistant
     time: 2024.11 - 2025.6
     align: left

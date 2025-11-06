@@ -4,15 +4,15 @@ inline: false
 group: Research Staffs
 group_rank: 2
 
-title: Dr. Jiaxin WU
+title: Dr. WU Jiaxin
 description: 
-lastname: Dr. Jiaxin
+lastname: WU
 publications: 'author^=*JiaxinWU'
 
 teaser: 
 
 profile:
-    name: Dr. Jiaxin WU
+    name: Dr. WU Jiaxin
     position: Post-Doctoral Fellow
     time: 2024.4 - Present
     align: right

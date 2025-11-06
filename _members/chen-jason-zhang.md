@@ -4,7 +4,7 @@ inline: false
 group: Director
 group_rank: 1
 
-title: Prof. Chen Jason ZHANG
+title: Prof. ZHANG Chen Jason
 description: 
 lastname: z-chen
 publications: 'author^=*Zhangchenjason'
@@ -12,7 +12,7 @@ publications: 'author^=*Zhangchenjason'
 teaser: 
 
 profile:
-    name: Prof. Chen Jason ZHANG
+    name: Prof. ZHANG Chen Jason
     position: Assistant Professor, Department of Computing, The Hong Kong Polytechnic University
     align: right
     image: chen-jason-zhang.jpeg

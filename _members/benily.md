@@ -6,13 +6,13 @@ group_rank: 4
 
 title: Lee Kwok Hin
 description: 
-lastname: Kwok Hin
+lastname: Lee
 publications: 'author^=*leeKwokHin'
 
 teaser: 
 
 profile:
-    name: Mr. Kwok Hin LEE
+    name: Mr. LEE Kwok Hin
     position: Student Assistant
     time: 2025.9 - Present
     align: left

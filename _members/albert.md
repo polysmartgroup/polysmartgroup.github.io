@@ -4,15 +4,15 @@ inline: false
 group: Student Assistants
 group_rank: 4
 
-title: Youkang WANG
+title: WANG Youkang
 description: 
-lastname: youkang
+lastname: WANG
 publications: 'author^=*WANGYoukang'
 
 teaser: 
 
 profile:
-    name: Mr. Youkang WANG
+    name: Mr. WANG Youkang
     position: Student Assistant
     time: 2025.2 - Present
     align: left

@@ -4,15 +4,15 @@ inline: false
 group: Alumni
 group_rank: 6
 
-title: Haoming YUAN
+title: YUAN Haoming
 description: 
-lastname: haoming
+lastname: Yuan
 publications: 'author^=*HaomingYUAN'
 
 teaser: 
 
 profile:
-    name: Mr. Haoming YUAN
+    name: Mr. YUAN Haoming
     position: Student Assistant
     time: 2024.9 - 2024.12
     align: left

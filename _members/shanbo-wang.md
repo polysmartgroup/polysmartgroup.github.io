@@ -4,15 +4,15 @@ inline: false
 group: Student Assistants
 group_rank: 4
 
-title: Shanbo WANG
+title: WANG Shanbo
 description: 
-lastname: shanbo
+lastname: WANG
 publications: 'author^=*shanboWANG'
 
 teaser: 
 
 profile:
-    name: Mr. Shanbo WANG
+    name: Mr. WANG Shanbo
     position: Student Assistant
     time: 2025.9 - Present
     align: left

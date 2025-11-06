@@ -4,15 +4,15 @@ inline: false
 group: PhD Students
 group_rank: 3
 
-title: Yiyang JIANG
+title: JIANG Yiyang
 description: 
-lastname: yiyang
+lastname: JIANG
 publications: 'author^=*YiyangJIANG'
 
 teaser: 
 
 profile:
-    name: Mr. Yiyang JIANG
+    name: Mr. JIANG Yiyang
     position: PhD Student
     award: HKPFS
     time: 2025.9 - Present<br />2024.6 - 2025.9 (Research Assistant) <br />2023.5 - 2024.6 (Student Assistant)

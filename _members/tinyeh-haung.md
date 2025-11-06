@@ -4,15 +4,15 @@ inline: false
 group: Alumni
 group_rank: 6
 
-title: Tin Yeh HUANG
+title: HUANG Tin Yeh
 description: 
-lastname: tinyeh
+lastname: Huang
 publications: 'author^=*TinYehHUANG'
 
 teaser: 
 
 profile:
-    name: Mr. Tin Yeh HUANG
+    name: Mr. HAUNG Tin Yeh
     position: Research Intern
     time: 2024.11 - 2024.12
     align: left

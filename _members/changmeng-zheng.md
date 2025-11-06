@@ -4,15 +4,15 @@ inline: false
 group: Director
 group_rank: 1
 
-title: Dr. Changmeng ZHENG
+title: Dr. ZHENG Changmeng
 description: 
-lastname: z-z-changmeng
+lastname: zheng
 publications: 'author^=*Zhengchangmeng'
 
 teaser: 
 
 profile:
-    name: Dr. Changmeng ZHENG
+    name: Dr. ZHENG Changmeng
     position: Research Assistant Professor, Department of Computing, The Hong Kong Polytechnic University
     align: right
     image: changmeng-zheng.jpeg

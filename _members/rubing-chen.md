@@ -4,15 +4,15 @@ inline: false
 group: PhD Students
 group_rank: 3
 
-title: Rubing Chen
+title: CHEN Rubing
 description: 
-lastname: rubing
+lastname: Chen
 publications: 'author^=*RubingCHEN'
 
 teaser: 
 
 profile:
-    name: Ms. Rubing CHEN
+    name: Ms. CHEN Rubing
     position: PhD Student
     time: 2025.9 - Present<br />2023.5 - 2025.6 (Student Assistant)
     align: left

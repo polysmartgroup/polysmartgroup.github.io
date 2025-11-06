@@ -4,15 +4,15 @@ inline: false
 group: Alumni
 group_rank: 6
 
-title: Honghe DING
+title: DING Honghe
 description: 
-lastname: honghe
+lastname: DING
 publications: 'author^=*HongheDING'
 
 teaser: 
 
 profile:
-    name: Mr. Honghe DING
+    name: Mr. DING Honghe
     position: Student Assistant
     time: 2024.9 - 2025.6
     align: left
