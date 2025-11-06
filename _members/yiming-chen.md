@@ -16,6 +16,6 @@ profile:
     position: Student Assistant
     time: 2025.9 - Present
     align: left
-    image: temp.jpg
-    email: 
+    image: yiming.jpg
+    email: yiming0011.chen@connect.polyu.hk
 ---
