@@ -12,7 +12,7 @@ publications: 'author^=*leeKwokHin'
 teaser: 
 
 profile:
-    name: Mr. Lee Kwok Hin
+    name: Mr. Kwok Hin LEE
     position: Student Assistant
     time: 2025.9 - Present
     align: left
