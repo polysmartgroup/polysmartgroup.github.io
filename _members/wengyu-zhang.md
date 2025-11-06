@@ -17,12 +17,12 @@ profile:
     award: HKPFS
     time: 2025.9 - Present<br />2023.5 - 2025.6 (Student Assistant)
     align: left
-    image: wengyu-zhang.jpeg
+    image: wengyu-zhang_v2.png
     email: weng-yu.zhang@connect.polyu.hk
     scholar: https://scholar.google.com/citations?user=zgV2AIAAAAAJ
     website: https://wengyuzhang.com
     degree: Bsc(PolyU)
-    interest: Large Language Model, Image Synthesis, Health Computing, Graph Learning
+    interest: Computer Vision, Large Language Models, AI for Science, Brain-Inspired Neuroscience
     address: >
         P504<br />
         Dept. of Computing<br />

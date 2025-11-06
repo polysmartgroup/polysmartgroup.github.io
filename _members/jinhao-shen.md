@@ -16,7 +16,7 @@ profile:
     position: PhD Student
     time: 2025.9 - Present<br />2025.5 - 2025.8 (Research Assistant)
     align: left
-    image: sjh.jpg
+    image: sjh_v2.jpg
     email: jinhaoshen00@gmail.com
     scholar: https://scholar.google.com/citations?user=tBMK99AAAAAJ&hl=zh-CN
     website: https://jinhaoshen.github.io/
