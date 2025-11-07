@@ -4,15 +4,15 @@ inline: false
 group: Alumni
 group_rank: 6
 
-title: Sami HORMI
+title: HORMI Sami
 description: 
-lastname: sami
+lastname: HORMI
 publications: 'author^=*SamiHormi'
 
 teaser: 
 
 profile:
-    name: Mr. Sami HORMI
+    name: Mr. HORMI Sami
     position: Research Assistant
     time: 2022 - 2023
     image: sami-hormi.jpg
