@@ -3,7 +3,7 @@ layout: page
 permalink: /team/
 title: Team
 description: Members of PolySmart Group.
-nav: false
+nav: true
 nav_rank: 2
 ---
 
