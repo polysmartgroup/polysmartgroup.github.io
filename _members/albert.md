@@ -7,7 +7,7 @@ group_rank: 4
 title: WANG Youkang
 description: 
 lastname: WANG
-publications: 'author^=*WANGYoukang'
+publications: 'author^=*YoukangWANG'
 
 teaser: 
 
