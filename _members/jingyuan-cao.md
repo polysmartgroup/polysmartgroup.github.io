@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: false
-group: Student Assistants
+group: Alumni
 group_rank: 4
 
 title: CAO Jingyuan
