@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: false
-group: Student Assistants
+group: PhD Students
 group_rank: 4
 
 title: WANG Youkang
@@ -13,11 +13,14 @@ teaser:
 
 profile:
     name: Mr. WANG Youkang
-    position: Student Assistant
-    time: 2025.2 - Present
+    position: PhD Student
+    award: HKPFS
+    time: 2026.9 - Present<br />2025.2 - 2026.8 (Student Assistant)
     align: left
     image: albert.jpg
+    degree: Bsc(PolyU)
     email: 22097007d@connect.polyu.hk
+    scholar: https://scholar.google.com/citations?user=iwPzqU0AAAAJ
 ---
 
 <!-- # Student Assistants
