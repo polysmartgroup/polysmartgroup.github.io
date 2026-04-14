@@ -18,6 +18,7 @@ profile:
     align: left
     image: rubing-chen.jpg
     email: ru-bing.chen@connect.polyu.hk
+    scholar: https://scholar.google.com/citations?user=lEjqi_MAAAAJ
     address: >
         P504<br />
         Dept. of Computing<br />
