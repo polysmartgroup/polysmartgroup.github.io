@@ -19,6 +19,7 @@ profile:
     image: rubing-chen.jpg
     email: ru-bing.chen@connect.polyu.hk
     scholar: https://scholar.google.com/citations?user=lEjqi_MAAAAJ
+    website: https://anya-rb-chen.github.io/cv/
     address: >
         P504<br />
         Dept. of Computing<br />

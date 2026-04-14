@@ -19,6 +19,7 @@ profile:
     email: 24081066r@connect.polyu.hk
     scholar: https://scholar.google.com/citations?user=e-Das3gAAAAJ
     degree: BEng(SDU); MEng(SYSU)
+    website: https://github.com/Huenao
     address: >
         P504<br />
         Dept. of Computing<br />
