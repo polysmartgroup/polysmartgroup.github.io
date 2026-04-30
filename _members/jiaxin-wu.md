@@ -2,7 +2,7 @@
 layout: about
 inline: false
 group: Alumni
-group_rank: 1
+group_rank: 6
 
 title: Dr. WU Jiaxin
 description: 
