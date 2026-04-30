@@ -1,8 +1,8 @@
 ---
 layout: about
 inline: false
-group: Research Staffs
-group_rank: 2
+group: Alumni
+group_rank: 1
 
 title: Dr. WU Jiaxin
 description: 
@@ -14,7 +14,7 @@ teaser:
 profile:
     name: Dr. WU Jiaxin
     position: Post-Doctoral Fellow
-    time: 2024.4 - Present
+    time: 2024.4 - 2026.5
     align: right
     image: jiaxin-wu.jpeg
     email: nikki-jiaxin.wu@polyu.edu.hk
