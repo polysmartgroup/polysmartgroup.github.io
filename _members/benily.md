@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: false
-group: Student Assistants
+group: Alumni
 group_rank: 4
 
 title: Lee Kwok Hin
@@ -14,7 +14,7 @@ teaser:
 profile:
     name: Mr. LEE Kwok Hin
     position: Student Assistant
-    time: 2025.9 - Present
+    time: 2025.9 - 2025.4
     align: left
     image: benily.jpg
     email: 24075904d@connect.polyu.hk
