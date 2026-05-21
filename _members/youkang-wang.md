@@ -14,7 +14,6 @@ teaser:
 profile:
     name: Mr. WANG Youkang
     position: PhD Student
-    award: HKPFS
     time: 2026.9 - Present<br />2025.2 - 2026.8 (Student Assistant)
     align: left
     image: albert.jpg
