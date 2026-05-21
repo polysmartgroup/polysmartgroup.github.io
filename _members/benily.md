@@ -2,7 +2,7 @@
 layout: about
 inline: false
 group: Alumni
-group_rank: 4
+group_rank: 6
 
 title: Lee Kwok Hin
 description: 
