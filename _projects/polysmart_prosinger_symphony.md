@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PolySmart Prosinger Symphony
-description: An AI innovation that composes, orchestrates, and performs full orchestral symphonies—from mood and instruments, piano MIDI, or song lyrics—in the Smart Space
+description: An AI innovation that composes, orchestrates, and performs full orchestral symphonies. From mood and instruments, piano MIDI, or song lyrics, in the Smart Space.
 img: assets/img/PolySmart_Prosinger_S.png
 importance: 1
 ---
