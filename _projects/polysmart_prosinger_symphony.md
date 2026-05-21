@@ -2,14 +2,14 @@
 layout: page
 title: PolySmart Prosinger Symphony
 description: An AI innovation that composes, orchestrates, and performs full orchestral symphonies—from mood and instruments, piano MIDI, or song lyrics—in the Smart Space
-img: assets/img/PolySmart Prosinger S.png
+img: assets/img/PolySmart_Prosinger_S.png
 importance: 1
 ---
 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/PolySmart Prosinger S.png" class="img-fluid rounded z-depth-1 w-60" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/PolySmart_Prosinger_S.png" class="img-fluid rounded z-depth-1 w-60" zoomable=true %}
         <div class="caption">
             PolySmart Prosinger Symphony in the Smart Space, Research Centre on Data Sciences & Artificial Intelligence (RC-DSAI), P504, The Hong Kong Polytechnic University
         </div>
