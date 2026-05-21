@@ -17,7 +17,7 @@ profile:
     time: 2026.9 - Present<br />2026.7 - 2026.8 (Research Assistant)<br />2025.2 - 2026.6 (Student Assistant)
     align: left
     image: albert.jpg
-    degree: Bsc(PolyU)
+    degree: BSc(PolyU)
     email: 22097007d@connect.polyu.hk
     scholar: https://scholar.google.com/citations?user=iwPzqU0AAAAJ
 ---
