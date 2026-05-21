@@ -17,7 +17,7 @@ profile:
     align: right
     image: qing-li.jpg
     email: qing-prof.li@polyu.edu.hk
-    website: https://www4.comp.polyu.edu.hk/~csqli/
+    website: https://www.polyu.edu.hk/comp/people/academic-staff/prof-li-qing/
     scholar: https://scholar.google.com/citations?user=D1LEg-YAAAAJ
     degree: BEng(Hunan); MSc, PhD(USC); FIEEE; FAAIA; FIET; DMCCF
     address: >
