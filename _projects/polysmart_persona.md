@@ -1,15 +1,15 @@
 ---
 layout: page
 title: PolySmart Persona
-description: An AI innovation that places your portrait into iconic PolyU campus scenes with twelve artistic styles—generate, download, and share personalized photos in the Smart Space
-img: assets/img/PolySmart Persona.png
+description: An AI innovation that places your portrait into iconic PolyU campus scenes with twelve artistic styles: generate, download, and share personalized photos in the Smart Space
+img: assets/img/PolySmart_Persona.png
 importance: 1
 ---
 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/PolySmart Persona.png" class="img-fluid rounded z-depth-1 w-60" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/PolySmart_Persona.png" class="img-fluid rounded z-depth-1 w-60" zoomable=true %}
         <div class="caption">
             PolySmart Persona in the Smart Space, Research Centre on Data Sciences & Artificial Intelligence (RC-DSAI), P504, The Hong Kong Polytechnic University
         </div>
