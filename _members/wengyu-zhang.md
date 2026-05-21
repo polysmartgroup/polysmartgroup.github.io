@@ -21,7 +21,7 @@ profile:
     email: weng-yu.zhang@connect.polyu.hk
     scholar: https://scholar.google.com/citations?user=zgV2AIAAAAAJ
     website: https://wengyuzhang.com
-    degree: Bsc(PolyU)
+    degree: BSc(PolyU)
     interest: Computer Vision, Large Language Models, AI for Science, Brain-Inspired Neuroscience
     address: >
         P504<br />
