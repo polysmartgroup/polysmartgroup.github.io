@@ -17,7 +17,7 @@ profile:
     align: right
     image: xiaoyong-wei.jpeg
     email: cs007.wei@polyu.edu.hk
-    website: https://www4.comp.polyu.edu.hk/~x1wei/
+    website: https://www.polyu.edu.hk/comp/people/emeritus-honorary-adjunct-and-visiting/wei-xiaoyong---visiting/
     scholar: https://scholar.google.com/citations?user=8kxWTokAAAAJ
     degree: BEng(KMUST); MSc(YNU); PhD(CityU); SMIEEE
     address: >
