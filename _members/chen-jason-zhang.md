@@ -17,7 +17,7 @@ profile:
     align: right
     image: chen-jason-zhang.jpeg
     email: jason-c.zhang@polyu.edu.hk
-    website: https://www.zhangchen.info/
+    website: https://www.polyu.edu.hk/comp/people/academic-staff/prof-zhang-chen-jason/
     scholar: https://scholar.google.com/citations?user=U6-ouN0AAAAJ
     degree: BSc(MPI); MSc, PhD(HKUST)
     address: >
