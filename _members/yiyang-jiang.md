@@ -21,7 +21,7 @@ profile:
     email: yi-yang.jiang@connect.polyu.hk
     website: https://www.yyjiang.com
     scholar: https://scholar.google.com/citations?user=TvyGmeEAAAAJ
-    degree: Bsc(PolyU)
+    degree: BSc(PolyU)
     interest: Vision-language understanding, Natural Language Processing, Large Language Models, Health Computing
     address: >
         P504<br />
