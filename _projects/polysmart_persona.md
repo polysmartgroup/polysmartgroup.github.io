@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PolySmart Persona
-description: An AI innovation that places your portrait into iconic PolyU campus scenes with twelve artistic styles: generate, download, and share personalized photos in the Smart Space
+description: An AI innovation that places your portrait into iconic PolyU campus scenes with twelve artistic styles. Generate and share memorable, personalized photos in the Smart Space
 img: assets/img/PolySmart_Persona.png
 importance: 1
 ---
