@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SignThought ACL 26
-date: 2026-04-04 12:00:00-0300
+date: 2026-05-18 12:00:00-0300
 inline: true
 related_posts: false
 ---
