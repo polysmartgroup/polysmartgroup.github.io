@@ -22,7 +22,7 @@ profile:
     scholar: https://scholar.google.com.hk/citations?user=PRjnSUwAAAAJ
     degree: Bsc, Msc(SZU); PhD(CityU)
     current:
-        position: Lecturer
+        position: Assistant Professor
         affiliation: SZU
     address: >
         P504<br />
