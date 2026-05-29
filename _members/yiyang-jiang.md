@@ -14,7 +14,6 @@ teaser:
 profile:
     name: Mr. JIANG Yiyang
     position: PhD Student
-    award: HKPFS
     time: 2025.9 - Present<br />2024.6 - 2025.9 (Research Assistant) <br />2023.5 - 2024.6 (Student Assistant)
     align: left
     image: yiyang-jiang_v2.jpg

@@ -14,7 +14,6 @@ teaser:
 profile:
     name: Mr. HE Ziting
     position: PhD Student
-    award: HKPFS
     time: 2026.9 - Present
     align: left
     image: ziting-he.png
