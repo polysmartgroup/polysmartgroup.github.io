@@ -2,11 +2,11 @@
 layout: page
 title: Recruitment
 permalink: /recruitment/
-nav: true
+nav: false
 nav_order: 7
 ---
 
-## Student Assistant Recruitment of PolySmart Group 2025
+## Student Assistant Recruitment of PolySmart Group
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -28,7 +28,7 @@ The group is led by [Prof. Qing Li](https://www.polyu.edu.hk/comp/people/academi
 
 ###  2. Who We Are Recruiting
 
-- Undergraduate students graduating in **2027 or 2028**
+- Undergraduate students graduating in **2028 or 2029**
     
 - Motivated to learn, research, and explore **cutting-edge AI**
     

@@ -2,7 +2,7 @@
 layout: page
 title: Gain
 permalink: /gain/
-nav: true
+nav: false
 nav_order: 8
 description: What can you gain from PolySmart Group?
 ---
