@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: false
-group: PhD Students
+group: PhD Candidate
 group_rank: 3
 
 title: HU Wentao
