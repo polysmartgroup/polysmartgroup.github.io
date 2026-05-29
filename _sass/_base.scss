@@ -173,6 +173,65 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+.team-current {
+  border-left: 1px solid var(--global-divider-color);
+}
+
+.alumni-current {
+  background: rgba(128, 128, 128, 0.06);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 8px;
+  height: 100%;
+  padding: 0.75rem 0.85rem;
+}
+
+.alumni-current-label {
+  color: var(--global-theme-color);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  margin-bottom: 0.45rem;
+  text-transform: uppercase;
+}
+
+.alumni-current-main {
+  color: var(--global-text-color);
+  display: flex;
+  flex-direction: column;
+  font-size: 0.9rem;
+  font-weight: 600;
+  line-height: 1.35;
+  text-decoration: none;
+}
+
+a.alumni-current-main:hover {
+  color: var(--global-theme-color);
+  text-decoration: none;
+}
+
+.alumni-current-location {
+  color: var(--global-text-color-light);
+  font-size: 0.78rem;
+  line-height: 1.35;
+  margin-top: 0.45rem;
+}
+
+.alumni-current-empty {
+  color: var(--global-text-color-light);
+  font-weight: 400;
+}
+
+@media (max-width: 767px) {
+  .team-current {
+    border-left: 0;
+    border-top: 1px solid var(--global-divider-color);
+  }
+
+  .team-current .card-body {
+    padding-top: 0;
+  }
+}
+
 // Citation
 
 .citation,

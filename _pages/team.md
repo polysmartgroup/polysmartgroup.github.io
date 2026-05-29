@@ -19,7 +19,7 @@ nav_rank: 2
             <div class="col-sm-4 col-md-3">
                 <img src="{{ '/assets/img/' | append: member.profile.image | relative_url }}" class="card-img img-fluid" style="padding-top: 0" alt="{{ member.profile.name }}" />
             </div>
-            <div class="team col-sm-8 col-md-9">
+            <div class="team col-sm-8 {% if group == 'Alumni' and member.profile.current %}col-md-6{% else %}col-md-9{% endif %}">
                 <div class="card-body">
                     <!-- {% if member.inline == false %}<a href="{{ member.url | relative_url }}">{% endif %} -->
                     <h5 class="card-title">{{ member.profile.name }}</h5>
@@ -76,6 +76,22 @@ nav_rank: 2
 
                 </div>
             </div>
+            {% if group == "Alumni" and member.profile.current %}
+            <div class="team-current col-sm-12 col-md-3">
+                <div class="card-body">
+                    <div class="alumni-current">
+                        <div class="alumni-current-label"><i class="fas fa-location-dot"></i> Now</div>
+                        {% if member.profile.current.url %}<a href="{{ member.profile.current.url }}" target="_blank" class="alumni-current-main">{% else %}<div class="alumni-current-main">{% endif %}
+                            {% if member.profile.current.position %}<span>{{ member.profile.current.position }}</span>{% endif %}
+                            {% if member.profile.current.affiliation %}<span>{{ member.profile.current.affiliation }}</span>{% endif %}
+                        {% if member.profile.current.url %}</a>{% else %}</div>{% endif %}
+                        {% if member.profile.current.location %}
+                            <div class="alumni-current-location">{{ member.profile.current.location }}</div>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+            {% endif %}
         </div>
     </div>
 

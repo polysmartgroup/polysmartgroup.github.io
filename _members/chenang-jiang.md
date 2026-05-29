@@ -19,6 +19,8 @@ profile:
     image: chenang-jiang.jpg
     degree: BEng(SCU)
     website: https://github.com/Runningbean-jca
+    current:
+        position: PhD Student
+        affiliation: ZJU
 
 ---
-

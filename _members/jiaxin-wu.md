@@ -21,6 +21,9 @@ profile:
     website: https://jiaxinwu.weebly.com/
     scholar: https://scholar.google.com.hk/citations?user=PRjnSUwAAAAJ
     degree: Bsc, Msc(SZU); PhD(CityU)
+    current:
+        position: Lecturer
+        affiliation: SZU
     address: >
         P504<br />
         Dept. of Computing<br />

@@ -18,6 +18,9 @@ profile:
     align: left
     image: daiyuhang.jpg
     email: 22097845d@connect.polyu.hk
+    current:
+        position: MPhil Student
+        affiliation: PolyU
 ---
 
 <!-- # Student Assistants

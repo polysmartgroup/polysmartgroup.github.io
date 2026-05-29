@@ -18,6 +18,9 @@ profile:
     align: left
     image: dinghonghe.jpg
     email: dinghonghe0307@gmail.com
+    current:
+        position: MEng Student
+        affiliation: CMU
 ---
 
 <!-- # Student Assistants
