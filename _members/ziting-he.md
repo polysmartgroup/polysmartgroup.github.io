@@ -3,6 +3,7 @@ layout: about
 inline: false
 group: PhD Students
 group_rank: 3
+group_order: 3
 
 title: HE Ziting
 description: 

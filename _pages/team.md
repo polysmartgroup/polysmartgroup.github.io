@@ -11,7 +11,15 @@ nav_rank: 2
 {% for group in groups %}
 ## {{ group }}
 
-    {% assign members = site.members | sort: "lastname" | where: "group", group %}
+    {% assign group_members = site.members | where: "group", group %}
+    {% assign members = "" | split: "" %}
+    {% assign group_orders = group_members | where_exp: "member", "member.group_order != nil" | map: "group_order" | uniq | sort %}
+    {% for group_order in group_orders %}
+        {% assign members_at_order = group_members | where: "group_order", group_order | sort: "lastname" %}
+        {% assign members = members | concat: members_at_order %}
+    {% endfor %}
+    {% assign default_members = group_members | where_exp: "member", "member.group_order == nil" | sort: "lastname" %}
+    {% assign members = members | concat: default_members %}
     {% for member in members %}
 <p>
     <div class="card {% if member.inline == false %}hoverable{% endif %}">

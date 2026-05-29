@@ -2,7 +2,8 @@
 layout: about
 inline: false
 group: PhD Students
-group_rank: 4
+group_rank: 3
+group_order: 3
 
 title: WANG Youkang
 description: 
