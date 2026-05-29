@@ -17,4 +17,7 @@ profile:
     degree: BSc(PolyU)
     time: 2022 - 2023
     image: sami-hormi.jpg
+    current:
+        position: Research Engineer
+        affiliation: NTU
 ---
