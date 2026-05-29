@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: false
-group: PhD Candidate
+group: PhD Students
 group_rank: 3
 
 title: HU Wentao
@@ -13,7 +13,7 @@ teaser:
 
 profile:
     name: Mr. HU Wentao
-    position: PhD Student
+    position: PhD Candidate
     time: 2024.9 - Present<br />2024.5 - 2024.9 (Research Assistant)
     image: wentao-hu.jpeg
     email: 24081066r@connect.polyu.hk
