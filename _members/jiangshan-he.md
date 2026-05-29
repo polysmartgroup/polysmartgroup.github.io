@@ -21,4 +21,7 @@ profile:
     scholar: https://scholar.google.com/citations?user=okJwEZEAAAAJ
     website: https://thomas-s-ai-home.netlify.app
     degree: Bsc(WHU)
+    current:
+        position: MPhil Student
+        affiliation: HKUST(GZ)
 ---

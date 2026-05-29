@@ -19,6 +19,9 @@ profile:
     email: tonax.zhang@connect.polyu.hk
     scholar: https://scholar.google.com/citations?user=2BOyNTAAAAAJ
     degree: Bsc(PolyU)
+    current:
+        position: PhD Student
+        affiliation: PolyU
 ---
 
 <!-- # Student Assistants
