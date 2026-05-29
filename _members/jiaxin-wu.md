@@ -24,10 +24,10 @@ profile:
     current:
         position: Assistant Professor
         affiliation: SZU
-    address: >
-        P504<br />
-        Dept. of Computing<br />
-        The Polytechnic University of Hong Kong
+    # address: >
+    #     P504<br />
+    #     Dept. of Computing<br />
+    #     The Polytechnic University of Hong Kong
 ---
 
 

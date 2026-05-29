@@ -14,7 +14,7 @@ teaser:
 profile:
     name: Mr. LEE Kwok Hin
     position: Student Assistant
-    time: 2025.9 - 2025.4
+    time: 2025.9 - 2026.4
     align: left
     image: benily.jpg
     email: 24075904d@connect.polyu.hk

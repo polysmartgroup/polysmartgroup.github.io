@@ -18,6 +18,7 @@ profile:
     align: left
     image: zengtianyi.jpg
     email: tianyi.zeng@connect.polyu.hk
+    degree: BSc(PolyU)
 ---
 
 <!-- # Student Assistants

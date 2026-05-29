@@ -18,6 +18,7 @@ profile:
     align: left
     image: daiyuhang.jpg
     email: 22097845d@connect.polyu.hk
+    degree: BSc(PolyU)
     current:
         position: MPhil Student
         affiliation: PolyU
