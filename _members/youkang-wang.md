@@ -13,7 +13,7 @@ publications: 'author^=*YoukangWANG'
 teaser: 
 
 profile:
-    name: Mr. WANG Youkang
+    name: Mr. WANG Youkang (HKPFS awardee)
     position: PhD Student
     time: 2026.9 - Present<br />2026.7 - 2026.8 (Research Assistant)<br />2025.2 - 2026.6 (Student Assistant)
     align: left
