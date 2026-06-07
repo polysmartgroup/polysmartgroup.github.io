@@ -14,7 +14,7 @@ teaser:
 
 profile:
     name: Mr. ZHANG Wengyu
-    position: PhD Student
+    position: PhD Student (HKPFS awardee)
     time: 2025.9 - Present<br />2023.5 - 2025.6 (Student Assistant)
     align: left
     image: wengyu-zhang_v2.png
