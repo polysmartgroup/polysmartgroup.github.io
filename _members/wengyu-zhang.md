@@ -17,7 +17,7 @@ profile:
     position: PhD Student (HKPFS awardee)
     time: 2025.9 - Present<br />2023.5 - 2025.6 (Student Assistant)
     align: left
-    image: wengyu-zhang.jpg
+    image: wengyu-zhang_small.jpg
     email: weng-yu.zhang@connect.polyu.hk
     scholar: https://scholar.google.com/citations?user=zgV2AIAAAAAJ
     website: https://wengyuzhang.com
