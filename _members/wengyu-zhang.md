@@ -22,19 +22,10 @@ profile:
     scholar: https://scholar.google.com/citations?user=zgV2AIAAAAAJ
     website: https://wengyuzhang.com
     degree: BSc(PolyU)
-    interest: Computer Vision, Large Language Models, AI for Science, Brain-Inspired Neuroscience
+    interest: AI for Science, Brain-Inspired Neuroscience, Computer Vision, Large Language Models
     address: >
         P504<br />
         Dept. of Computing<br />
         The Polytechnic University of Hong Kong
 ---
 
-<!-- # Student Assistants
-
-**Wengyu ZHANG**
-
-Student Assistant, Undergraduate Student, Department of Computing, The Hong Kong Polytechnic University
-
-[Homepage](https://wengyuzhang.com)
-[Google Scholar](https://scholar.google.com/citations?user=zgV2AIAAAAAJ)
-[wengyu.zhang@connect.polyu.hk](mailto:wengyu.zhang@connect.polyu.hk) -->
