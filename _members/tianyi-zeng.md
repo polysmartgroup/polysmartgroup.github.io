@@ -1,8 +1,8 @@
 ---
 layout: about
 inline: false
-group: Student Assistants
-group_rank: 4
+group: PhD Students
+group_rank: 3
 
 title: ZENG Tianyi
 description: 
@@ -13,20 +13,10 @@ teaser:
 
 profile:
     name: Mr. ZENG Tianyi
-    position: Student Assistant
-    time: 2025.3 - Present
+    position: MPhil Student
+    time: 2026.9 - Present<br />2025.3 - 2026.6 (Student Assistant)
     align: left
     image: zengtianyi.jpg
     email: tianyi.zeng@connect.polyu.hk
     degree: BSc(PolyU)
 ---
-
-<!-- # Student Assistants
-
-**Wengyu ZHANG**
-
-Student Assistant, Undergraduate Student, Department of Computing, The Hong Kong Polytechnic University
-
-[Homepage](https://wengyuzhang.com)
-[Google Scholar](https://scholar.google.com/citations?user=zgV2AIAAAAAJ)
-[wengyu.zhang@connect.polyu.hk](mailto:wengyu.zhang@connect.polyu.hk) -->
