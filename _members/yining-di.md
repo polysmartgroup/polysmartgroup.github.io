@@ -6,7 +6,7 @@ group_rank: 1
 
 title: Dr. DI Yining
 description: 
-lastname: di
+lastname: zz
 publications: 'author^=*Diyining'
 
 teaser: 
