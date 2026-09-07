@@ -9,8 +9,7 @@ nav_order: 9
 [**cs007.wei@polyu.edu.hk**](mailto:cs007.wei@polyu.edu.hk)
 
 Prof. Xiaoyong WEI<br>
-Visiting Professor, Department of Computing, The Hong Kong Polytechnic University<br>
-Professor and Head, Department of Computer Science, Sichuan University, China<br>
+Professor of Practice, Department of Computing, The Hong Kong Polytechnic University<br>
 
 PQ829<br>
 Department of Computing<br>
