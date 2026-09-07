@@ -19,4 +19,8 @@ profile:
     image: zengtianyi.jpg
     email: tianyi.zeng@connect.polyu.hk
     degree: BSc(PolyU)
+    address: >
+        P504<br />
+        Dept. of Computing<br />
+        The Polytechnic University of Hong Kong
 ---
