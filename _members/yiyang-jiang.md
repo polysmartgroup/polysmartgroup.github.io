@@ -18,7 +18,7 @@ profile:
     time: 2025.9 - Present<br />2024.6 - 2025.9 (Research Assistant) <br />2023.5 - 2024.6 (Student Assistant)
     align: left
     image: yiyang-jiang_v2.jpg
-    email: yi-yang.jiang@connect.polyu.hk
+    email: yiyang.jiang@connect.polyu.hk
     website: https://www.yyjiang.com
     scholar: https://scholar.google.com/citations?user=TvyGmeEAAAAJ
     degree: BSc(PolyU)
